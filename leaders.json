@@ -1,0 +1,98 @@
+[
+ {
+  "card_type": "leader",
+  "faction": "Northen Relams",
+  "id": 183,
+  "name": "The Steel-Forged"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Northen Relams",
+  "id": 184,
+  "name": "The Siegemaster"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Northen Relams",
+  "id": 185,
+  "name": "Lord Commander of the North"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Northen Relams",
+  "id": 186,
+  "name": "King of Temeria"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Nilfgaard",
+  "id": 187,
+  "name": "The Relentless"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Nilfgaard",
+  "id": 188,
+  "name": "The White Flame"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Nilfgaard",
+  "id": 189,
+  "name": "The Emperor of Nilfgaard"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Nilfgaard",
+  "id": 190,
+  "name": "His Imperial Majesty"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Scoia\u2019tael",
+  "id": 191,
+  "name": "Queen of Dol Blathanna"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Scoia\u2019tael",
+  "id": 192,
+  "name": "The Beautiful"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Scoia\u2019tael",
+  "id": 193,
+  "name": "Daisy of the Valley"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Scoia\u2019tael",
+  "id": 194,
+  "name": "Pureblood Elf"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Monsters",
+  "id": 195,
+  "name": "Destroyer of Worlds"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Monsters",
+  "id": 196,
+  "name": "Bringer of Death"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Monsters",
+  "id": 197,
+  "name": "King of the Wild Hunt"
+ },
+ {
+  "card_type": "leader",
+  "faction": "Monsters",
+  "id": 198,
+  "name": "Commander of the Red Riders"
+ }
+]

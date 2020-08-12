@@ -1,0 +1,1640 @@
+[
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 1,
+  "is_hero": true,
+  "name": "Geralt of Rivia",
+  "power": 15
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 2,
+  "is_hero": true,
+  "name": "Cirilla Fiona Elen Rianno",
+  "power": 15
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 3,
+  "is_hero": false,
+  "name": "Vesemir",
+  "power": 6
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 4,
+  "is_hero": true,
+  "name": "Yennefer of Vengerberg",
+  "power": 7
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 5,
+  "is_hero": true,
+  "name": "Triss Merigold",
+  "power": 7
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 6,
+  "is_hero": false,
+  "name": "Dandelion",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 7,
+  "is_hero": false,
+  "name": "Zoltan Chivay",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 8,
+  "is_hero": false,
+  "name": "Emiel Regis Rohellec Terzieff",
+  "power": 5
+ },
+ {
+  "ability": "Scorch",
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 9,
+  "is_hero": false,
+  "name": "Villentretenmerth",
+  "power": 7
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Neutral",
+  "id": 10,
+  "is_hero": true,
+  "name": "Avallac\u2019h",
+  "power": 0
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 11,
+  "is_hero": false,
+  "name": "Decoy",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 12,
+  "is_hero": false,
+  "name": "Decoy",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 13,
+  "is_hero": false,
+  "name": "Decoy",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 14,
+  "is_hero": false,
+  "name": "Commander\u2019s Horn",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 15,
+  "is_hero": false,
+  "name": "Commander\u2019s Horn",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 16,
+  "is_hero": false,
+  "name": "Commander\u2019s Horn",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 17,
+  "is_hero": false,
+  "name": "Scorch",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 18,
+  "is_hero": false,
+  "name": "Scorch",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "special",
+  "faction": "Neutral",
+  "id": 19,
+  "is_hero": false,
+  "name": "Scorch",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 20,
+  "is_hero": false,
+  "name": "Biting Frost",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 21,
+  "is_hero": false,
+  "name": "Biting Frost",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 22,
+  "is_hero": false,
+  "name": "Biting Frost",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 23,
+  "is_hero": false,
+  "name": "Impenetrable Fog",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 24,
+  "is_hero": false,
+  "name": "Impenetrable Fog",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 25,
+  "is_hero": false,
+  "name": "Impenetrable Fog",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 26,
+  "is_hero": false,
+  "name": "Torrential Rain",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 27,
+  "is_hero": false,
+  "name": "Torrential Rain",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 28,
+  "is_hero": false,
+  "name": "Torrential Rain",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 29,
+  "is_hero": false,
+  "name": "Clear Weather",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 30,
+  "is_hero": false,
+  "name": "Clear Weather",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "weather",
+  "faction": "Neutral",
+  "id": 31,
+  "is_hero": false,
+  "name": "Clear Weather",
+  "power": null
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 32,
+  "is_hero": true,
+  "name": "Vernon Roche",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 33,
+  "is_hero": true,
+  "name": "John Natalis",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 34,
+  "is_hero": true,
+  "name": "Esterad Thyssen",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 35,
+  "is_hero": true,
+  "name": "Philippa Eilhart",
+  "power": 10
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 36,
+  "is_hero": false,
+  "name": "Thaler",
+  "power": 1
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 37,
+  "is_hero": false,
+  "name": "Ves",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 38,
+  "is_hero": false,
+  "name": "Siegfried of Denesle",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 39,
+  "is_hero": false,
+  "name": "Yarpen Zigrin",
+  "power": 2
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 40,
+  "is_hero": false,
+  "name": "Sigismund Dijkstra",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 41,
+  "is_hero": false,
+  "name": "Keira Metz",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 42,
+  "is_hero": false,
+  "name": "Si\u0301le de Tansarville",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 43,
+  "is_hero": false,
+  "name": "Sabrina Glevissig",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 44,
+  "is_hero": false,
+  "name": "Sheldon Skaggs",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 45,
+  "is_hero": false,
+  "name": "Dethmold",
+  "power": 6
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 46,
+  "is_hero": false,
+  "name": "Prince Stennis",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 47,
+  "is_hero": false,
+  "name": "Trebuchet",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 48,
+  "is_hero": false,
+  "name": "Trebuchet",
+  "power": 6
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 49,
+  "is_hero": false,
+  "name": "Poor F*cking Infantry",
+  "power": 1
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 50,
+  "is_hero": false,
+  "name": "Poor F*cking Infantry",
+  "power": 1
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 51,
+  "is_hero": false,
+  "name": "Poor F*cking Infantry",
+  "power": 1
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 52,
+  "is_hero": false,
+  "name": "Crinfrid Reavers Dragon Hunter",
+  "power": 5
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 53,
+  "is_hero": false,
+  "name": "Crinfrid Reavers Dragon Hunter",
+  "power": 5
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 54,
+  "is_hero": false,
+  "name": "Crinfrid Reavers Dragon Hunter",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 55,
+  "is_hero": false,
+  "name": "Redanian Foot Soldier",
+  "power": 1
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 56,
+  "is_hero": false,
+  "name": "Redanian Foot Soldier",
+  "power": 1
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 57,
+  "is_hero": false,
+  "name": "Catapult",
+  "power": 8
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 58,
+  "is_hero": false,
+  "name": "Catapult",
+  "power": 8
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 59,
+  "is_hero": false,
+  "name": "Ballista",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 60,
+  "is_hero": false,
+  "name": "Ballista",
+  "power": 6
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 61,
+  "is_hero": false,
+  "name": "Kaedweni Siege Expert",
+  "power": 1
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 62,
+  "is_hero": false,
+  "name": "Kaedweni Siege Expert",
+  "power": 1
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 63,
+  "is_hero": false,
+  "name": "Kaedweni Siege Expert",
+  "power": 1
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 64,
+  "is_hero": false,
+  "name": "Blue Stripes Commando",
+  "power": 4
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 65,
+  "is_hero": false,
+  "name": "Blue Stripes Commando",
+  "power": 4
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 66,
+  "is_hero": false,
+  "name": "Blue Stripes Commando",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 67,
+  "is_hero": false,
+  "name": "Siege Tower",
+  "power": 6
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Northen Relams",
+  "id": 68,
+  "is_hero": false,
+  "name": "Dun Banner Medic",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 69,
+  "is_hero": true,
+  "name": "Letho of Gulet",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 70,
+  "is_hero": true,
+  "name": "Menno Coehoorn",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 71,
+  "is_hero": true,
+  "name": "Morvran Voorhis",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 72,
+  "is_hero": true,
+  "name": "Tibor Eggebracht",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 73,
+  "is_hero": false,
+  "name": "Albrich",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 74,
+  "is_hero": false,
+  "name": "Assire var Anahid",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 75,
+  "is_hero": false,
+  "name": "Cynthia",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 76,
+  "is_hero": false,
+  "name": "Fringilla Vigo",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 77,
+  "is_hero": false,
+  "name": "Morteisen",
+  "power": 3
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 78,
+  "is_hero": false,
+  "name": "Rainfarn",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 79,
+  "is_hero": false,
+  "name": "Renuald aep Matsen",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 80,
+  "is_hero": false,
+  "name": "Rotten Mangonel",
+  "power": 3
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 81,
+  "is_hero": false,
+  "name": "Shilard Fitz-Oesterlen",
+  "power": 7
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 82,
+  "is_hero": false,
+  "name": "Stefan Skellen",
+  "power": 9
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 83,
+  "is_hero": false,
+  "name": "Sweers",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 84,
+  "is_hero": false,
+  "name": "Vanhemar",
+  "power": 4
+ },
+ {
+  "ability": "Spy",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 85,
+  "is_hero": false,
+  "name": "Vattier de Rideaux",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 86,
+  "is_hero": false,
+  "name": "Vreemde",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 87,
+  "is_hero": false,
+  "name": "Cahir Mawr Dyffryn aep Ceallach",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 88,
+  "is_hero": false,
+  "name": "Puttkammer",
+  "power": 3
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 89,
+  "is_hero": false,
+  "name": "Etolian Auxiliary Archers",
+  "power": 1
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 90,
+  "is_hero": false,
+  "name": "Etolian Auxiliary Archers",
+  "power": 1
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 91,
+  "is_hero": false,
+  "name": "Black Infantry Archer",
+  "power": 10
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 92,
+  "is_hero": false,
+  "name": "Siege Technican",
+  "power": 0
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 93,
+  "is_hero": false,
+  "name": "Black Infantry Archer",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 94,
+  "is_hero": false,
+  "name": "Heavy Zerrikanian Fire Scorpion",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 95,
+  "is_hero": false,
+  "name": "Zerrikanian Fire Scorpion",
+  "power": 10
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 96,
+  "is_hero": false,
+  "name": "Impera Brigade",
+  "power": 3
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 97,
+  "is_hero": false,
+  "name": "Impera Brigade",
+  "power": 3
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 98,
+  "is_hero": false,
+  "name": "Impera Brigade",
+  "power": 3
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 99,
+  "is_hero": false,
+  "name": "Impera Brigade",
+  "power": 3
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 100,
+  "is_hero": false,
+  "name": "Nausicaa Cavalry Brigade",
+  "power": 2
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 101,
+  "is_hero": false,
+  "name": "Nausicaa Cavalry Brigade",
+  "power": 2
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 102,
+  "is_hero": false,
+  "name": "Nausicaa Cavalry Brigade",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 103,
+  "is_hero": false,
+  "name": "Siege Engineer",
+  "power": 6
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 104,
+  "is_hero": false,
+  "name": "Young Emissary",
+  "power": 5
+ },
+ {
+  "ability": "Bond",
+  "card_type": "unit",
+  "faction": "Nilfgaard",
+  "id": 105,
+  "is_hero": false,
+  "name": "Young Emissary",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 106,
+  "is_hero": true,
+  "name": "Eithne\u0301",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 107,
+  "is_hero": true,
+  "name": "Saskia / Saesenthessis",
+  "power": 10
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 108,
+  "is_hero": false,
+  "name": "Isengrim Faoiltiarna",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 109,
+  "is_hero": true,
+  "name": "Iorveth",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 110,
+  "is_hero": false,
+  "name": "Dennis Cranmer",
+  "power": 6
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 111,
+  "is_hero": false,
+  "name": "Milva",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 112,
+  "is_hero": false,
+  "name": "Ida Emean",
+  "power": 6
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 113,
+  "is_hero": false,
+  "name": "Filavandrel",
+  "power": 6
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 114,
+  "is_hero": false,
+  "name": "Yaevinn",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 115,
+  "is_hero": false,
+  "name": "Toruviel",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 116,
+  "is_hero": false,
+  "name": "Riordain",
+  "power": 1
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 117,
+  "is_hero": false,
+  "name": "Ciaran aep Easnillien",
+  "power": 3
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 118,
+  "is_hero": false,
+  "name": "Barclay Els",
+  "power": 6
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 119,
+  "is_hero": false,
+  "name": "Havekar Healer",
+  "power": 0
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 120,
+  "is_hero": false,
+  "name": "Havekar Healer",
+  "power": 0
+ },
+ {
+  "ability": "Medic",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 121,
+  "is_hero": false,
+  "name": "Havekar Healer",
+  "power": 0
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 122,
+  "is_hero": false,
+  "name": "Vrihedd Brigade Veteran",
+  "power": 5
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 123,
+  "is_hero": false,
+  "name": "Vrihedd Brigade Veterean",
+  "power": 5
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 124,
+  "is_hero": false,
+  "name": "Dol Blathanna Archer",
+  "power": 6
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 125,
+  "is_hero": false,
+  "name": "Dol Blathanna Scout",
+  "power": 6
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 126,
+  "is_hero": false,
+  "name": "Dol Blathanna Scout",
+  "power": 6
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 127,
+  "is_hero": false,
+  "name": "Dwarf Skirmisher",
+  "power": 3
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 128,
+  "is_hero": false,
+  "name": "Dwarf Skirmisher",
+  "power": 3
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 129,
+  "is_hero": false,
+  "name": "Dwarf Skirmisher",
+  "power": 3
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 130,
+  "is_hero": false,
+  "name": "Mahakaman Defender",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 131,
+  "is_hero": false,
+  "name": "Mahakaman Defender",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 132,
+  "is_hero": false,
+  "name": "Mahakaman Defender",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 133,
+  "is_hero": false,
+  "name": "Mahakaman Defender",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 134,
+  "is_hero": false,
+  "name": "Mahakaman Defender",
+  "power": 5
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 135,
+  "is_hero": false,
+  "name": "Elven Skirmisher",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 136,
+  "is_hero": false,
+  "name": "Elven Skirmisher",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 137,
+  "is_hero": false,
+  "name": "Elven Skirmisher",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 138,
+  "is_hero": false,
+  "name": "Vrihedd Cadet",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 139,
+  "is_hero": false,
+  "name": "Dol Blathanna Archer",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 140,
+  "is_hero": false,
+  "name": "Havekar Smuggler",
+  "power": 5
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 141,
+  "is_hero": false,
+  "name": "Havekar Smuggler",
+  "power": 5
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Scoia\u2019tael",
+  "id": 142,
+  "is_hero": false,
+  "name": "Havekar Smuggler",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 143,
+  "is_hero": true,
+  "name": "Draug",
+  "power": 10
+ },
+ {
+  "ability": "Morale",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 144,
+  "is_hero": true,
+  "name": "Kayran",
+  "power": 18
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 145,
+  "is_hero": true,
+  "name": "Imlerith",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 146,
+  "is_hero": true,
+  "name": "Leshen",
+  "power": 10
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 147,
+  "is_hero": false,
+  "name": "Forktail",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 148,
+  "is_hero": false,
+  "name": "Earth Elemental",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 149,
+  "is_hero": false,
+  "name": "Fiend",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 150,
+  "is_hero": false,
+  "name": "Plague Maiden",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 151,
+  "is_hero": false,
+  "name": "Griffin",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 152,
+  "is_hero": false,
+  "name": "Werewolf",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 153,
+  "is_hero": false,
+  "name": "Botchling",
+  "power": 4
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 154,
+  "is_hero": false,
+  "name": "Frightener",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 155,
+  "is_hero": false,
+  "name": "Ice Giant",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 156,
+  "is_hero": false,
+  "name": "Endrega",
+  "power": 2
+ },
+ {
+  "ability": "Agile",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 157,
+  "is_hero": false,
+  "name": "Harpy",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 158,
+  "is_hero": false,
+  "name": "Cockatrice",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 159,
+  "is_hero": false,
+  "name": "Gargoyle",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 160,
+  "is_hero": false,
+  "name": "Celaeno Harpy",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 161,
+  "is_hero": false,
+  "name": "Grave Hag",
+  "power": 5
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 162,
+  "is_hero": false,
+  "name": "Fire Elemental",
+  "power": 6
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 163,
+  "is_hero": false,
+  "name": "Foglet",
+  "power": 2
+ },
+ {
+  "ability": null,
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 164,
+  "is_hero": false,
+  "name": "Wyvern",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 165,
+  "is_hero": false,
+  "name": "Arachas Behemoth",
+  "power": 6
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 166,
+  "is_hero": false,
+  "name": "Arachas",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 167,
+  "is_hero": false,
+  "name": "Arachas",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 168,
+  "is_hero": false,
+  "name": "Arachas",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 169,
+  "is_hero": false,
+  "name": "Nekker",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 170,
+  "is_hero": false,
+  "name": "Nekker",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 171,
+  "is_hero": false,
+  "name": "Nekker",
+  "power": 2
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 172,
+  "is_hero": false,
+  "name": "Vampire: Ekimmara",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 173,
+  "is_hero": false,
+  "name": "Vampire: Fleder",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 174,
+  "is_hero": false,
+  "name": "Vampire: Garkain",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 175,
+  "is_hero": false,
+  "name": "Vampire: Bruxa",
+  "power": 4
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 176,
+  "is_hero": false,
+  "name": "Vampire: Katakan",
+  "power": 5
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 177,
+  "is_hero": false,
+  "name": "Ghoul",
+  "power": 1
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 178,
+  "is_hero": false,
+  "name": "Ghoul",
+  "power": 1
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 179,
+  "is_hero": false,
+  "name": "Ghoul",
+  "power": 1
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 180,
+  "is_hero": false,
+  "name": "Crone: Brewess",
+  "power": 6
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 181,
+  "is_hero": false,
+  "name": "Crone: Weavess",
+  "power": 6
+ },
+ {
+  "ability": "Muster",
+  "card_type": "unit",
+  "faction": "Monsters",
+  "id": 182,
+  "is_hero": false,
+  "name": "Crone: Whispess",
+  "power": 6
+ }
+]
