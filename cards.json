@@ -86,197 +86,155 @@
   "faction": "Neutral",
   "id": 10,
   "is_hero": true,
-  "name": "Avallac\u2019h",
+  "name": "Avallac’h",
   "power": 0
  },
  {
-  "ability": null,
+  "ability": "Decoy",
   "card_type": "special",
   "faction": "Neutral",
   "id": 11,
-  "is_hero": false,
-  "name": "Decoy",
-  "power": null
+  "name": "Decoy"
  },
  {
-  "ability": null,
+  "ability": "Decoy",
   "card_type": "special",
   "faction": "Neutral",
   "id": 12,
-  "is_hero": false,
-  "name": "Decoy",
-  "power": null
+  "name": "Decoy"
  },
  {
-  "ability": null,
+  "ability": "Decoy",
   "card_type": "special",
   "faction": "Neutral",
   "id": 13,
-  "is_hero": false,
-  "name": "Decoy",
-  "power": null
+  "name": "Decoy"
  },
  {
-  "ability": null,
+  "ability": "Commander’s Horn",
   "card_type": "special",
   "faction": "Neutral",
   "id": 14,
-  "is_hero": false,
-  "name": "Commander\u2019s Horn",
-  "power": null
+  "name": "Commander’s Horn"
  },
  {
-  "ability": null,
+  "ability": "Commander’s Horn",
   "card_type": "special",
   "faction": "Neutral",
   "id": 15,
-  "is_hero": false,
-  "name": "Commander\u2019s Horn",
-  "power": null
+  "name": "Commander’s Horn"
  },
  {
-  "ability": null,
+  "ability": "Commander’s Horn",
   "card_type": "special",
   "faction": "Neutral",
   "id": 16,
-  "is_hero": false,
-  "name": "Commander\u2019s Horn",
-  "power": null
+  "name": "Commander’s Horn"
  },
  {
-  "ability": null,
+  "ability": "Scorch",
   "card_type": "special",
   "faction": "Neutral",
   "id": 17,
-  "is_hero": false,
-  "name": "Scorch",
-  "power": null
+  "name": "Scorch"
  },
  {
-  "ability": null,
+  "ability": "Scorch",
   "card_type": "special",
   "faction": "Neutral",
   "id": 18,
-  "is_hero": false,
-  "name": "Scorch",
-  "power": null
+  "name": "Scorch"
  },
  {
-  "ability": null,
+  "ability": "Scorch",
   "card_type": "special",
   "faction": "Neutral",
   "id": 19,
-  "is_hero": false,
-  "name": "Scorch",
-  "power": null
+  "name": "Scorch"
  },
  {
-  "ability": null,
+  "ability": "Biting Frost",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 20,
-  "is_hero": false,
-  "name": "Biting Frost",
-  "power": null
+  "name": "Biting Frost"
  },
  {
-  "ability": null,
+  "ability": "Biting Frost",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 21,
-  "is_hero": false,
-  "name": "Biting Frost",
-  "power": null
+  "name": "Biting Frost"
  },
  {
-  "ability": null,
+  "ability": "Biting Frost",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 22,
-  "is_hero": false,
-  "name": "Biting Frost",
-  "power": null
+  "name": "Biting Frost"
  },
  {
-  "ability": null,
+  "ability": "Impenetrable Fog",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 23,
-  "is_hero": false,
-  "name": "Impenetrable Fog",
-  "power": null
+  "name": "Impenetrable Fog"
  },
  {
-  "ability": null,
+  "ability": "Impenetrable Fog",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 24,
-  "is_hero": false,
-  "name": "Impenetrable Fog",
-  "power": null
+  "name": "Impenetrable Fog"
  },
  {
-  "ability": null,
+  "ability": "Impenetrable Fog",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 25,
-  "is_hero": false,
-  "name": "Impenetrable Fog",
-  "power": null
+  "name": "Impenetrable Fog"
  },
  {
-  "ability": null,
+  "ability": "Torrential Rain",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 26,
-  "is_hero": false,
-  "name": "Torrential Rain",
-  "power": null
+  "name": "Torrential Rain"
  },
  {
-  "ability": null,
+  "ability": "Torrential Rain",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 27,
-  "is_hero": false,
-  "name": "Torrential Rain",
-  "power": null
+  "name": "Torrential Rain"
  },
  {
-  "ability": null,
+  "ability": "Torrential Rain",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 28,
-  "is_hero": false,
-  "name": "Torrential Rain",
-  "power": null
+  "name": "Torrential Rain"
  },
  {
-  "ability": null,
+  "ability": "Clear Weather",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 29,
-  "is_hero": false,
-  "name": "Clear Weather",
-  "power": null
+  "name": "Clear Weather"
  },
  {
-  "ability": null,
+  "ability": "Clear Weather",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 30,
-  "is_hero": false,
-  "name": "Clear Weather",
-  "power": null
+  "name": "Clear Weather"
  },
  {
-  "ability": null,
+  "ability": "Clear Weather",
   "card_type": "weather",
   "faction": "Neutral",
   "id": 31,
-  "is_hero": false,
-  "name": "Clear Weather",
-  "power": null
+  "name": "Clear Weather"
  },
  {
   "ability": null,
@@ -374,7 +332,7 @@
   "faction": "Northen Relams",
   "id": 42,
   "is_hero": false,
-  "name": "Si\u0301le de Tansarville",
+  "name": "Síle de Tansarville",
   "power": 5
  },
  {
@@ -947,16 +905,16 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 106,
   "is_hero": true,
-  "name": "Eithne\u0301",
+  "name": "Eithné",
   "power": 10
  },
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 107,
   "is_hero": true,
   "name": "Saskia / Saesenthessis",
@@ -965,7 +923,7 @@
  {
   "ability": "Morale",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 108,
   "is_hero": false,
   "name": "Isengrim Faoiltiarna",
@@ -974,7 +932,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 109,
   "is_hero": true,
   "name": "Iorveth",
@@ -983,7 +941,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 110,
   "is_hero": false,
   "name": "Dennis Cranmer",
@@ -992,7 +950,7 @@
  {
   "ability": "Morale",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 111,
   "is_hero": false,
   "name": "Milva",
@@ -1001,7 +959,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 112,
   "is_hero": false,
   "name": "Ida Emean",
@@ -1010,7 +968,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 113,
   "is_hero": false,
   "name": "Filavandrel",
@@ -1019,7 +977,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 114,
   "is_hero": false,
   "name": "Yaevinn",
@@ -1028,7 +986,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 115,
   "is_hero": false,
   "name": "Toruviel",
@@ -1037,7 +995,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 116,
   "is_hero": false,
   "name": "Riordain",
@@ -1046,7 +1004,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 117,
   "is_hero": false,
   "name": "Ciaran aep Easnillien",
@@ -1055,7 +1013,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 118,
   "is_hero": false,
   "name": "Barclay Els",
@@ -1064,7 +1022,7 @@
  {
   "ability": "Medic",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 119,
   "is_hero": false,
   "name": "Havekar Healer",
@@ -1073,7 +1031,7 @@
  {
   "ability": "Medic",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 120,
   "is_hero": false,
   "name": "Havekar Healer",
@@ -1082,7 +1040,7 @@
  {
   "ability": "Medic",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 121,
   "is_hero": false,
   "name": "Havekar Healer",
@@ -1091,7 +1049,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 122,
   "is_hero": false,
   "name": "Vrihedd Brigade Veteran",
@@ -1100,7 +1058,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 123,
   "is_hero": false,
   "name": "Vrihedd Brigade Veterean",
@@ -1109,7 +1067,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 124,
   "is_hero": false,
   "name": "Dol Blathanna Archer",
@@ -1118,7 +1076,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 125,
   "is_hero": false,
   "name": "Dol Blathanna Scout",
@@ -1127,7 +1085,7 @@
  {
   "ability": "Agile",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 126,
   "is_hero": false,
   "name": "Dol Blathanna Scout",
@@ -1136,7 +1094,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 127,
   "is_hero": false,
   "name": "Dwarf Skirmisher",
@@ -1145,7 +1103,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 128,
   "is_hero": false,
   "name": "Dwarf Skirmisher",
@@ -1154,7 +1112,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 129,
   "is_hero": false,
   "name": "Dwarf Skirmisher",
@@ -1163,7 +1121,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 130,
   "is_hero": false,
   "name": "Mahakaman Defender",
@@ -1172,7 +1130,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 131,
   "is_hero": false,
   "name": "Mahakaman Defender",
@@ -1181,7 +1139,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 132,
   "is_hero": false,
   "name": "Mahakaman Defender",
@@ -1190,7 +1148,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 133,
   "is_hero": false,
   "name": "Mahakaman Defender",
@@ -1199,7 +1157,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 134,
   "is_hero": false,
   "name": "Mahakaman Defender",
@@ -1208,7 +1166,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 135,
   "is_hero": false,
   "name": "Elven Skirmisher",
@@ -1217,7 +1175,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 136,
   "is_hero": false,
   "name": "Elven Skirmisher",
@@ -1226,7 +1184,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 137,
   "is_hero": false,
   "name": "Elven Skirmisher",
@@ -1235,7 +1193,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 138,
   "is_hero": false,
   "name": "Vrihedd Cadet",
@@ -1244,7 +1202,7 @@
  {
   "ability": null,
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 139,
   "is_hero": false,
   "name": "Dol Blathanna Archer",
@@ -1253,7 +1211,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 140,
   "is_hero": false,
   "name": "Havekar Smuggler",
@@ -1262,7 +1220,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 141,
   "is_hero": false,
   "name": "Havekar Smuggler",
@@ -1271,7 +1229,7 @@
  {
   "ability": "Muster",
   "card_type": "unit",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 142,
   "is_hero": false,
   "name": "Havekar Smuggler",

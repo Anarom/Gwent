@@ -1,95 +1,111 @@
 [
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Northen Relams",
   "id": 183,
   "name": "The Steel-Forged"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Northen Relams",
   "id": 184,
   "name": "The Siegemaster"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Northen Relams",
   "id": 185,
   "name": "Lord Commander of the North"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Northen Relams",
   "id": 186,
   "name": "King of Temeria"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Nilfgaard",
   "id": 187,
   "name": "The Relentless"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Nilfgaard",
   "id": 188,
   "name": "The White Flame"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Nilfgaard",
   "id": 189,
   "name": "The Emperor of Nilfgaard"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Nilfgaard",
   "id": 190,
   "name": "His Imperial Majesty"
  },
  {
+  "ability": null,
   "card_type": "leader",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 191,
   "name": "Queen of Dol Blathanna"
  },
  {
+  "ability": null,
   "card_type": "leader",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 192,
   "name": "The Beautiful"
  },
  {
+  "ability": null,
   "card_type": "leader",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 193,
   "name": "Daisy of the Valley"
  },
  {
+  "ability": null,
   "card_type": "leader",
-  "faction": "Scoia\u2019tael",
+  "faction": "Scoia’tael",
   "id": 194,
   "name": "Pureblood Elf"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Monsters",
   "id": 195,
   "name": "Destroyer of Worlds"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Monsters",
   "id": 196,
   "name": "Bringer of Death"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Monsters",
   "id": 197,
   "name": "King of the Wild Hunt"
  },
  {
+  "ability": null,
   "card_type": "leader",
   "faction": "Monsters",
   "id": 198,
