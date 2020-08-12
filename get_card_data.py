@@ -17,6 +17,7 @@ def get_soup(url):
 
 def process_table(table, faction):
     data = []
+    card_attrs = ('name', 'power', 'ability', 'is_hero')
     for row in table.find_all('tr'):
         attrs = row.find_all('td')[1:-5]  # except first entry which is for image
         attrs = [elem.text.strip().replace('—-', '') for elem in attrs]
@@ -32,6 +33,7 @@ def process_table(table, faction):
 def process_soup(soup):
     card_data = []
     leader_data = []
+    faction_order = ('Neutral', 'Northen Relams', 'Nilfgaard', 'Scoia’tael', 'Monsters')
     for x, table in enumerate(soup.find_all('tbody')):
         if x < 5:  # card processing
             table_data = process_table(table, faction_order[x])
@@ -61,8 +63,6 @@ def dump_to_file(data, file_name):
         json.dump(data, file, indent=1, sort_keys=True, ensure_ascii=False)
 
 
-faction_order = ('Neutral', 'Northen Relams', 'Nilfgaard', 'Scoia’tael', 'Monsters')
-card_attrs = ('name', 'power', 'ability', 'is_hero')
 weather_cards = ('Biting Frost', 'Impenetrable Fog', 'Torrential Rain', 'Clear Weather')
 special_cards = ('Decoy', 'Scorch', 'Commander’s Horn')
 
