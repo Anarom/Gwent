@@ -20,7 +20,8 @@ class Army:
         self.ranged_row = BoardRow(1)
         self.siege_row = BoardRow(2)
 
+
 class Board:
     def __init__(self):
-        self.armies = (Army(0),Army(1))
+        self.armies = [Army(0), Army(1)]
         self.effects = []
