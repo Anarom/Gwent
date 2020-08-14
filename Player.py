@@ -37,6 +37,25 @@ class Player:
             self.deck.remove(card)
         self.change_hand()
 
+    def get_menu_message(self):
+        menu_message = '0 - pass\n1 - play a card'
+        if not self.leader_used:
+            menu_message += '\n2 - use leader_ability'
+        menu_message += '\nSpecify action: '
+        return menu_message
+
+    def get_menu_command(self):
+        available_commands = [0, 1]
+        if not self.leader_used:
+            available_commands += [2]
+        while True:
+            command = int(input(self.get_menu_message()))
+            if command in available_commands:
+                return command
+
+    def play_turn(self):
+        command = self.get_menu_command()
+
 
 p = Player(0, None, [x for x in range(1, 31)])
 p.play_turn()
