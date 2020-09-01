@@ -83,5 +83,3 @@ class Ability:
 
     def decoy(self):
         self.player.remove_card(self.player.choose_unit(), in_hand=True)
-
-

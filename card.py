@@ -2,26 +2,24 @@ import config
 
 
 class Card:
-    def __init__(self, card_id, name, faction, card_type):
+    def __init__(self, card_id, name, faction):
         self.id = card_id
         self.name = name
         self.faction = faction
-        self.card_type = card_type
 
 
-class SpecialCard():
+class AbilityCard(Card):
     def __init__(self, card_id, name, faction, abilities):
-        super().__init__(card_id, name, faction, 'special')
+        super().__init__(card_id, name, faction)
         self.abilities = abilities
 
 
-class UnitCard(Card):
-    def __init__(self, card_id, name, faction, unit_type, power, power_type='normal', abilities=None):
-        super().__init__(card_id, name, faction, 'unit')
+class UnitCard(AbilityCard):
+    def __init__(self, card_id, name, faction, abilities, unit_type, power, power_type):
+        super().__init__(card_id, name, faction, abilities)
         self.power = power
         self.power_type = power_type
         self.unit_type = unit_type
-        self.abilities = abilities
 
         self.power_bonus = 0
         self.power_multiplier = 1
@@ -35,4 +33,4 @@ class UnitCard(Card):
             return self.power
 
     def __str__(self):
-        print(str(self.get_power()))
+        return self.name

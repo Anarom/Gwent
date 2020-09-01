@@ -1,1598 +1,1598 @@
 [
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 1,
-  "is_hero": true,
-  "name": "Geralt of Rivia",
-  "power": 15
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 2,
-  "is_hero": true,
-  "name": "Cirilla Fiona Elen Riannon",
-  "power": 15
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 3,
-  "is_hero": false,
-  "name": "Vesemir",
-  "power": 6
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Neutral",
-  "id": 4,
-  "is_hero": true,
-  "name": "Yennefer of Vengerberg",
-  "power": 7
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 5,
-  "is_hero": true,
-  "name": "Triss Merigold",
-  "power": 7
- },
- {
-  "ability": "Morale",
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 6,
-  "is_hero": false,
-  "name": "Dandelion",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 7,
-  "is_hero": false,
-  "name": "Zoltan Chivay",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 8,
-  "is_hero": false,
-  "name": "Emiel Regis Rohellec Terzieff",
-  "power": 5
- },
- {
-  "ability": "Scorch",
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 9,
-  "is_hero": false,
-  "name": "Villentretenmerth",
-  "power": 7
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Neutral",
-  "id": 10,
-  "is_hero": true,
-  "name": "Mysterious Elf",
-  "power": 0
- },
- {
-  "ability": "Decoy",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 11,
-  "name": "Decoy"
- },
- {
-  "ability": "Decoy",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 12,
-  "name": "Decoy"
- },
- {
-  "ability": "Decoy",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 13,
-  "name": "Decoy"
- },
- {
-  "ability": "Commander’s Horn",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 14,
-  "name": "Commander’s Horn"
- },
- {
-  "ability": "Commander’s Horn",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 15,
-  "name": "Commander’s Horn"
- },
- {
-  "ability": "Commander’s Horn",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 16,
-  "name": "Commander’s Horn"
- },
- {
-  "ability": "Scorch",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 17,
-  "name": "Scorch"
- },
- {
-  "ability": "Scorch",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 18,
-  "name": "Scorch"
- },
- {
-  "ability": "Scorch",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 19,
-  "name": "Scorch"
- },
- {
-  "ability": "Biting Frost",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 20,
-  "name": "Biting Frost"
- },
- {
-  "ability": "Biting Frost",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 21,
-  "name": "Biting Frost"
- },
- {
-  "ability": "Biting Frost",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 22,
-  "name": "Biting Frost"
- },
- {
-  "ability": "Impenetrable Fog",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 23,
-  "name": "Impenetrable Fog"
- },
- {
-  "ability": "Impenetrable Fog",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 24,
-  "name": "Impenetrable Fog"
- },
- {
-  "ability": "Impenetrable Fog",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 25,
-  "name": "Impenetrable Fog"
- },
- {
-  "ability": "Torrential Rain",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 26,
-  "name": "Torrential Rain"
- },
- {
-  "ability": "Torrential Rain",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 27,
-  "name": "Torrential Rain"
- },
- {
-  "ability": "Torrential Rain",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 28,
-  "name": "Torrential Rain"
- },
- {
-  "ability": "Clear 3",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 29,
-  "name": "Clear 3"
- },
- {
-  "ability": "Clear 3",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 30,
-  "name": "Clear 3"
- },
- {
-  "ability": "Clear 3",
-  "card_type": 3,
-  "faction": "Neutral",
-  "id": 31,
-  "name": "Clear 3"
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 32,
-  "is_hero": true,
-  "name": "Vernon Roche",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 33,
-  "is_hero": true,
-  "name": "John Natalis",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 34,
-  "is_hero": true,
-  "name": "Esterad Thyssen",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 35,
-  "is_hero": true,
-  "name": "Philippa Eilhart",
-  "power": 10
- },
- {
-  "ability": "Spy",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 36,
-  "is_hero": false,
-  "name": "Thaler",
-  "power": 1
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 37,
-  "is_hero": false,
-  "name": "Ves",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 38,
-  "is_hero": false,
-  "name": "Siegfried of Denesle",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 39,
-  "is_hero": false,
-  "name": "Yarpen Zigrin",
-  "power": 2
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 40,
-  "is_hero": false,
-  "name": "Sigismund Dijkstra",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 41,
-  "is_hero": false,
-  "name": "Keira Metz",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 42,
-  "is_hero": false,
-  "name": "Síle de Tansarville",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 43,
-  "is_hero": false,
-  "name": "Sabrina Glevissig",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 44,
-  "is_hero": false,
-  "name": "Sheldon Skaggs",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 45,
-  "is_hero": false,
-  "name": "Dethmold",
-  "power": 6
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 46,
-  "is_hero": false,
-  "name": "Prince Stennis",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 47,
-  "is_hero": false,
-  "name": "Trebuchet",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 48,
-  "is_hero": false,
-  "name": "Trebuchet",
-  "power": 6
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 49,
-  "is_hero": false,
-  "name": "Poor Fucking Infantry",
-  "power": 1
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 50,
-  "is_hero": false,
-  "name": "Poor Fucking Infantry",
-  "power": 1
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 51,
-  "is_hero": false,
-  "name": "Poor Fucking Infantry",
-  "power": 1
- },
- {
-  "ability": "Bond",
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 52,
-  "is_hero": false,
-  "name": "Crinfrid Reavers Dragon Hunter",
-  "power": 5
- },
- {
-  "ability": "Bond",
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 53,
-  "is_hero": false,
-  "name": "Crinfrid Reavers Dragon Hunter",
-  "power": 5
- },
- {
-  "ability": "Bond",
-  "card_type": 1,
-  "faction": "Northen Relams",
-  "id": 54,
-  "is_hero": false,
-  "name": "Crinfrid Reavers Dragon Hunter",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 55,
-  "is_hero": false,
-  "name": "Redanian Foot Soldier",
-  "power": 1
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 56,
-  "is_hero": false,
-  "name": "Redanian Foot Soldier",
-  "power": 1
- },
- {
-  "ability": "Bond",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 57,
-  "is_hero": false,
-  "name": "Catapult",
-  "power": 8
- },
- {
-  "ability": "Bond",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 58,
-  "is_hero": false,
-  "name": "Catapult",
-  "power": 8
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 59,
-  "is_hero": false,
-  "name": "Ballista",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 60,
-  "is_hero": false,
-  "name": "Ballista",
-  "power": 6
- },
- {
-  "ability": "Morale",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 61,
-  "is_hero": false,
-  "name": "Kaedweni Siege Expert",
-  "power": 1
- },
- {
-  "ability": "Morale",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 62,
-  "is_hero": false,
-  "name": "Kaedweni Siege Expert",
-  "power": 1
- },
- {
-  "ability": "Morale",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 63,
-  "is_hero": false,
-  "name": "Kaedweni Siege Expert",
-  "power": 1
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 64,
-  "is_hero": false,
-  "name": "Blue Stripes Commando",
-  "power": 4
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 65,
-  "is_hero": false,
-  "name": "Blue Stripes Commando",
-  "power": 4
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Northen Relams",
-  "id": 66,
-  "is_hero": false,
-  "name": "Blue Stripes Commando",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 67,
-  "is_hero": false,
-  "name": "Siege Tower",
-  "power": 6
- },
- {
-  "ability": "Medic",
-  "card_type": 2,
-  "faction": "Northen Relams",
-  "id": 68,
-  "is_hero": false,
-  "name": "Dun Banner Medic",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 69,
-  "is_hero": true,
-  "name": "Letho of Gulet",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 70,
-  "is_hero": true,
-  "name": "Menno Coehoorn",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 71,
-  "is_hero": true,
-  "name": "Morvran Voorhis",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 72,
-  "is_hero": true,
-  "name": "Tibor Eggebracht",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 73,
-  "is_hero": false,
-  "name": "Albrich",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 74,
-  "is_hero": false,
-  "name": "Assire var Anahid",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 75,
-  "is_hero": false,
-  "name": "Cynthia",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 76,
-  "is_hero": false,
-  "name": "Fringilla Vigo",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 77,
-  "is_hero": false,
-  "name": "Morteisen",
-  "power": 3
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 78,
-  "is_hero": false,
-  "name": "Rainfarn",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 79,
-  "is_hero": false,
-  "name": "Renuald aep Matsen",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 80,
-  "is_hero": false,
-  "name": "Rotten Mangonel",
-  "power": 3
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 81,
-  "is_hero": false,
-  "name": "Shilard Fitz-Oesterlen",
-  "power": 7
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 82,
-  "is_hero": false,
-  "name": "Stefan Skellen",
-  "power": 9
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 83,
-  "is_hero": false,
-  "name": "Sweers",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 84,
-  "is_hero": false,
-  "name": "Vanhemar",
-  "power": 4
- },
- {
-  "ability": "Spy",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 85,
-  "is_hero": false,
-  "name": "Vattier de Rideaux",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 86,
-  "is_hero": false,
-  "name": "Vreemde",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 87,
-  "is_hero": false,
-  "name": "Cahir Mawr Dyffryn aep Ceallach",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 88,
-  "is_hero": false,
-  "name": "Puttkammer",
-  "power": 3
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 89,
-  "is_hero": false,
-  "name": "Etolian Auxiliary Archers",
-  "power": 1
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 90,
-  "is_hero": false,
-  "name": "Etolian Auxiliary Archers",
-  "power": 1
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 91,
-  "is_hero": false,
-  "name": "Black Infantry Archer",
-  "power": 10
- },
- {
-  "ability": "Medic",
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 92,
-  "is_hero": false,
-  "name": "Siege Technician",
-  "power": 0
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Nilfgaard",
-  "id": 93,
-  "is_hero": false,
-  "name": "Black Infantry Archer",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 94,
-  "is_hero": false,
-  "name": "Heavy Zerrikanian Fire Scorpion",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 95,
-  "is_hero": false,
-  "name": "Heavy Zerrikanian Fire Scorpion",
-  "power": 10
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 96,
-  "is_hero": false,
-  "name": "Impera Brigade Guard",
-  "power": 3
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 97,
-  "is_hero": false,
-  "name": "Impera Brigade Guard",
-  "power": 3
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 98,
-  "is_hero": false,
-  "name": "Impera Brigade Guard",
-  "power": 3
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 99,
-  "is_hero": false,
-  "name": "Impera Brigade Guard",
-  "power": 3
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 100,
-  "is_hero": false,
-  "name": "Nausicaa Cavalry Rider",
-  "power": 2
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 101,
-  "is_hero": false,
-  "name": "Nausicaa Cavalry Rider",
-  "power": 2
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 102,
-  "is_hero": false,
-  "name": "Nausicaa Cavalry Rider",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Nilfgaard",
-  "id": 103,
-  "is_hero": false,
-  "name": "Siege Engineer",
-  "power": 6
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 104,
-  "is_hero": false,
-  "name": "Young Emissary",
-  "power": 5
- },
- {
-  "ability": "Bond",
-  "card_type": 0,
-  "faction": "Nilfgaard",
-  "id": 105,
-  "is_hero": false,
-  "name": "Young Emissary",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 106,
-  "is_hero": true,
-  "name": "Eithné",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 107,
-  "is_hero": true,
-  "name": "Saesenthessis",
-  "power": 10
- },
- {
-  "ability": "Morale",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 108,
-  "is_hero": false,
-  "name": "Isengrim Faoiltiarna",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 109,
-  "is_hero": true,
-  "name": "Iorveth",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 110,
-  "is_hero": false,
-  "name": "Dennis Cranmer",
-  "power": 6
- },
- {
-  "ability": "Morale",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 111,
-  "is_hero": false,
-  "name": "Milva",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 112,
-  "is_hero": false,
-  "name": "Ida Emean aep Sivney",
-  "power": 6
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 113,
-  "is_hero": false,
-  "name": "Filavandrel aen Fidhail",
-  "power": 6
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 114,
-  "is_hero": false,
-  "name": "Yaevinn",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 115,
-  "is_hero": false,
-  "name": "Toruviel",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 116,
-  "is_hero": false,
-  "name": "Riordain",
-  "power": 1
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 117,
-  "is_hero": false,
-  "name": "Ciaran aep Easnillien",
-  "power": 3
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 118,
-  "is_hero": false,
-  "name": "Barclay Els",
-  "power": 6
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 119,
-  "is_hero": false,
-  "name": "Havekar Healer",
-  "power": 0
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 120,
-  "is_hero": false,
-  "name": "Havekar Healer",
-  "power": 0
- },
- {
-  "ability": "Medic",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 121,
-  "is_hero": false,
-  "name": "Havekar Healer",
-  "power": 0
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 122,
-  "is_hero": false,
-  "name": "Vrihedd Brigade Veteran",
-  "power": 5
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 123,
-  "is_hero": false,
-  "name": "Vrihedd Brigade Veteran",
-  "power": 5
- },
- {
-  "ability": "Agile",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 124,
-  "is_hero": false,
-  "name": "Dol Blathanna Archer",
-  "power": 6
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 125,
-  "is_hero": false,
-  "name": "Dol Blathanna Scout",
-  "power": 6
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 126,
-  "is_hero": false,
-  "name": "Dol Blathanna Scout",
-  "power": 6
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 127,
-  "is_hero": false,
-  "name": "Dwarven Skirmisher",
-  "power": 3
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 128,
-  "is_hero": false,
-  "name": "Dwarven Skirmisher",
-  "power": 3
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 129,
-  "is_hero": false,
-  "name": "Dwarven Skirmisher",
-  "power": 3
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 130,
-  "is_hero": false,
-  "name": "Mahakaman Defender",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 131,
-  "is_hero": false,
-  "name": "Mahakaman Defender",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 132,
-  "is_hero": false,
-  "name": "Mahakaman Defender",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 133,
-  "is_hero": false,
-  "name": "Mahakaman Defender",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 134,
-  "is_hero": false,
-  "name": "Mahakaman Defender",
-  "power": 5
- },
- {
-  "ability": "Muster",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 135,
-  "is_hero": false,
-  "name": "Elven Skirmisher",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 136,
-  "is_hero": false,
-  "name": "Elven Skirmisher",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 137,
-  "is_hero": false,
-  "name": "Elven Skirmisher",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 138,
-  "is_hero": false,
-  "name": "Vrihedd Brigade Recruit",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Scoia’tael",
-  "id": 139,
-  "is_hero": false,
-  "name": "Dol Blathanna Archer",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 140,
-  "is_hero": false,
-  "name": "Havekar Smuggler",
-  "power": 5
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 141,
-  "is_hero": false,
-  "name": "Havekar Smuggler",
-  "power": 5
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Scoia’tael",
-  "id": 142,
-  "is_hero": false,
-  "name": "Havekar Smuggler",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 143,
-  "is_hero": true,
-  "name": "Draug",
-  "power": 10
- },
- {
-  "ability": "Morale",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 144,
-  "is_hero": true,
-  "name": "Kayran",
-  "power": 18
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 145,
-  "is_hero": true,
-  "name": "Imlerith",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 146,
-  "is_hero": true,
-  "name": "Leshen",
-  "power": 10
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 147,
-  "is_hero": false,
-  "name": "Forktail",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Monsters",
-  "id": 148,
-  "is_hero": false,
-  "name": "Earth Elemental",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 149,
-  "is_hero": false,
-  "name": "Fiend",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 150,
-  "is_hero": false,
-  "name": "Plague Maiden",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 151,
-  "is_hero": false,
-  "name": "Griffin",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 152,
-  "is_hero": false,
-  "name": "Werewolf",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 153,
-  "is_hero": false,
-  "name": "Botchling",
-  "power": 4
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 154,
-  "is_hero": false,
-  "name": "Frightener",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Monsters",
-  "id": 155,
-  "is_hero": false,
-  "name": "Ice Giant",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 156,
-  "is_hero": false,
-  "name": "Endrega",
-  "power": 2
- },
- {
-  "ability": "Agile",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 157,
-  "is_hero": false,
-  "name": "Harpy",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 158,
-  "is_hero": false,
-  "name": "Cockatrice",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 159,
-  "is_hero": false,
-  "name": "Gargoyle",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 160,
-  "is_hero": false,
-  "name": "Celaeno Harpy",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 161,
-  "is_hero": false,
-  "name": "Grave Hag",
-  "power": 5
- },
- {
-  "ability": null,
-  "card_type": 2,
-  "faction": "Monsters",
-  "id": 162,
-  "is_hero": false,
-  "name": "Fire Elemental",
-  "power": 6
- },
- {
-  "ability": null,
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 163,
-  "is_hero": false,
-  "name": "Foglet",
-  "power": 2
- },
- {
-  "ability": null,
-  "card_type": 1,
-  "faction": "Monsters",
-  "id": 164,
-  "is_hero": false,
-  "name": "Wyvern",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 2,
-  "faction": "Monsters",
-  "id": 165,
-  "is_hero": false,
-  "name": "Arachas Behemoth",
-  "power": 6
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 166,
-  "is_hero": false,
-  "name": "Arachas",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 167,
-  "is_hero": false,
-  "name": "Arachas",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 168,
-  "is_hero": false,
-  "name": "Arachas",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 169,
-  "is_hero": false,
-  "name": "Nekker",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 170,
-  "is_hero": false,
-  "name": "Nekker",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 171,
-  "is_hero": false,
-  "name": "Nekker",
-  "power": 2
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 172,
-  "is_hero": false,
-  "name": "Vampire: Ekimmara",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 173,
-  "is_hero": false,
-  "name": "Vampire: Fleder",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 174,
-  "is_hero": false,
-  "name": "Vampire: Garkain",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 175,
-  "is_hero": false,
-  "name": "Vampire: Bruxa",
-  "power": 4
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 176,
-  "is_hero": false,
-  "name": "Vampire: Katakan",
-  "power": 5
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 177,
-  "is_hero": false,
-  "name": "Ghoul",
-  "power": 1
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 178,
-  "is_hero": false,
-  "name": "Ghoul",
-  "power": 1
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 179,
-  "is_hero": false,
-  "name": "Ghoul",
-  "power": 1
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 180,
-  "is_hero": false,
-  "name": "Crone: Brewess",
-  "power": 6
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 181,
-  "is_hero": false,
-  "name": "Crone: Weavess",
-  "power": 6
- },
- {
-  "ability": "Muster",
-  "card_type": 0,
-  "faction": "Monsters",
-  "id": 182,
-  "is_hero": false,
-  "name": "Crone: Whispess",
-  "power": 6
- }
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 1,
+    "power_type": "constant",
+    "name": "Geralt of Rivia",
+    "power": 15
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 2,
+    "power_type": "constant",
+    "name": "Cirilla Fiona Elen Riannon",
+    "power": 15
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 3,
+    "power_type": "normal",
+    "name": "Vesemir",
+    "power": 6
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Neutral",
+    "id": 4,
+    "power_type": "constant",
+    "name": "Yennefer of Vengerberg",
+    "power": 7
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 5,
+    "power_type": "constant",
+    "name": "Triss Merigold",
+    "power": 7
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 6,
+    "power_type": "normal",
+    "name": "Dandelion",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 7,
+    "power_type": "normal",
+    "name": "Zoltan Chivay",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 8,
+    "power_type": "normal",
+    "name": "Emiel Regis Rohellec Terzieff",
+    "power": 5
+  },
+  {
+    "abilities": "Scorch",
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 9,
+    "power_type": "normal",
+    "name": "Villentretenmerth",
+    "power": 7
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Neutral",
+    "id": 10,
+    "power_type": "constant",
+    "name": "Mysterious Elf",
+    "power": 0
+  },
+  {
+    "abilities": "Decoy",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 11,
+    "name": "Decoy"
+  },
+  {
+    "abilities": "Decoy",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 12,
+    "name": "Decoy"
+  },
+  {
+    "abilities": "Decoy",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 13,
+    "name": "Decoy"
+  },
+  {
+    "abilities": "Commander’s Horn",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 14,
+    "name": "Commander’s Horn"
+  },
+  {
+    "abilities": "Commander’s Horn",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 15,
+    "name": "Commander’s Horn"
+  },
+  {
+    "abilities": "Commander’s Horn",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 16,
+    "name": "Commander’s Horn"
+  },
+  {
+    "abilities": "Scorch",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 17,
+    "name": "Scorch"
+  },
+  {
+    "abilities": "Scorch",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 18,
+    "name": "Scorch"
+  },
+  {
+    "abilities": "Scorch",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 19,
+    "name": "Scorch"
+  },
+  {
+    "abilities": "Biting Frost",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 20,
+    "name": "Biting Frost"
+  },
+  {
+    "abilities": "Biting Frost",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 21,
+    "name": "Biting Frost"
+  },
+  {
+    "abilities": "Biting Frost",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 22,
+    "name": "Biting Frost"
+  },
+  {
+    "abilities": "Impenetrable Fog",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 23,
+    "name": "Impenetrable Fog"
+  },
+  {
+    "abilities": "Impenetrable Fog",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 24,
+    "name": "Impenetrable Fog"
+  },
+  {
+    "abilities": "Impenetrable Fog",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 25,
+    "name": "Impenetrable Fog"
+  },
+  {
+    "abilities": "Torrential Rain",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 26,
+    "name": "Torrential Rain"
+  },
+  {
+    "abilities": "Torrential Rain",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 27,
+    "name": "Torrential Rain"
+  },
+  {
+    "abilities": "Torrential Rain",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 28,
+    "name": "Torrential Rain"
+  },
+  {
+    "abilities": "Clear 3",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 29,
+    "name": "Clear 3"
+  },
+  {
+    "abilities": "Clear 3",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 30,
+    "name": "Clear 3"
+  },
+  {
+    "abilities": "Clear 3",
+    "card_type": 3,
+    "faction": "Neutral",
+    "id": 31,
+    "name": "Clear 3"
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 32,
+    "power_type": "constant",
+    "name": "Vernon Roche",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 33,
+    "power_type": "constant",
+    "name": "John Natalis",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 34,
+    "power_type": "constant",
+    "name": "Esterad Thyssen",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 35,
+    "power_type": "constant",
+    "name": "Philippa Eilhart",
+    "power": 10
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 36,
+    "power_type": "normal",
+    "name": "Thaler",
+    "power": 1
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 37,
+    "power_type": "normal",
+    "name": "Ves",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 38,
+    "power_type": "normal",
+    "name": "Siegfried of Denesle",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 39,
+    "power_type": "normal",
+    "name": "Yarpen Zigrin",
+    "power": 2
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 40,
+    "power_type": "normal",
+    "name": "Sigismund Dijkstra",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 41,
+    "power_type": "normal",
+    "name": "Keira Metz",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 42,
+    "power_type": "normal",
+    "name": "Síle de Tansarville",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 43,
+    "power_type": "normal",
+    "name": "Sabrina Glevissig",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 44,
+    "power_type": "normal",
+    "name": "Sheldon Skaggs",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 45,
+    "power_type": "normal",
+    "name": "Dethmold",
+    "power": 6
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 46,
+    "power_type": "normal",
+    "name": "Prince Stennis",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 47,
+    "power_type": "normal",
+    "name": "Trebuchet",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 48,
+    "power_type": "normal",
+    "name": "Trebuchet",
+    "power": 6
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 49,
+    "power_type": "normal",
+    "name": "Poor Fucking Infantry",
+    "power": 1
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 50,
+    "power_type": "normal",
+    "name": "Poor Fucking Infantry",
+    "power": 1
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 51,
+    "power_type": "normal",
+    "name": "Poor Fucking Infantry",
+    "power": 1
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 52,
+    "power_type": "normal",
+    "name": "Crinfrid Reavers Dragon Hunter",
+    "power": 5
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 53,
+    "power_type": "normal",
+    "name": "Crinfrid Reavers Dragon Hunter",
+    "power": 5
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 1,
+    "faction": "Northen Relams",
+    "id": 54,
+    "power_type": "normal",
+    "name": "Crinfrid Reavers Dragon Hunter",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 55,
+    "power_type": "normal",
+    "name": "Redanian Foot Soldier",
+    "power": 1
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 56,
+    "power_type": "normal",
+    "name": "Redanian Foot Soldier",
+    "power": 1
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 57,
+    "power_type": "normal",
+    "name": "Catapult",
+    "power": 8
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 58,
+    "power_type": "normal",
+    "name": "Catapult",
+    "power": 8
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 59,
+    "power_type": "normal",
+    "name": "Ballista",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 60,
+    "power_type": "normal",
+    "name": "Ballista",
+    "power": 6
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 61,
+    "power_type": "normal",
+    "name": "Kaedweni Siege Expert",
+    "power": 1
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 62,
+    "power_type": "normal",
+    "name": "Kaedweni Siege Expert",
+    "power": 1
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 63,
+    "power_type": "normal",
+    "name": "Kaedweni Siege Expert",
+    "power": 1
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 64,
+    "power_type": "normal",
+    "name": "Blue Stripes Commando",
+    "power": 4
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 65,
+    "power_type": "normal",
+    "name": "Blue Stripes Commando",
+    "power": 4
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Northen Relams",
+    "id": 66,
+    "power_type": "normal",
+    "name": "Blue Stripes Commando",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 67,
+    "power_type": "normal",
+    "name": "Siege Tower",
+    "power": 6
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 2,
+    "faction": "Northen Relams",
+    "id": 68,
+    "power_type": "normal",
+    "name": "Dun Banner Medic",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 69,
+    "power_type": "constant",
+    "name": "Letho of Gulet",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 70,
+    "power_type": "constant",
+    "name": "Menno Coehoorn",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 71,
+    "power_type": "constant",
+    "name": "Morvran Voorhis",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 72,
+    "power_type": "constant",
+    "name": "Tibor Eggebracht",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 73,
+    "power_type": "normal",
+    "name": "Albrich",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 74,
+    "power_type": "normal",
+    "name": "Assire var Anahid",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 75,
+    "power_type": "normal",
+    "name": "Cynthia",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 76,
+    "power_type": "normal",
+    "name": "Fringilla Vigo",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 77,
+    "power_type": "normal",
+    "name": "Morteisen",
+    "power": 3
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 78,
+    "power_type": "normal",
+    "name": "Rainfarn",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 79,
+    "power_type": "normal",
+    "name": "Renuald aep Matsen",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 80,
+    "power_type": "normal",
+    "name": "Rotten Mangonel",
+    "power": 3
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 81,
+    "power_type": "normal",
+    "name": "Shilard Fitz-Oesterlen",
+    "power": 7
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 82,
+    "power_type": "normal",
+    "name": "Stefan Skellen",
+    "power": 9
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 83,
+    "power_type": "normal",
+    "name": "Sweers",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 84,
+    "power_type": "normal",
+    "name": "Vanhemar",
+    "power": 4
+  },
+  {
+    "abilities": "Spy",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 85,
+    "power_type": "normal",
+    "name": "Vattier de Rideaux",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 86,
+    "power_type": "normal",
+    "name": "Vreemde",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 87,
+    "power_type": "normal",
+    "name": "Cahir Mawr Dyffryn aep Ceallach",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 88,
+    "power_type": "normal",
+    "name": "Puttkammer",
+    "power": 3
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 89,
+    "power_type": "normal",
+    "name": "Etolian Auxiliary Archers",
+    "power": 1
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 90,
+    "power_type": "normal",
+    "name": "Etolian Auxiliary Archers",
+    "power": 1
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 91,
+    "power_type": "normal",
+    "name": "Black Infantry Archer",
+    "power": 10
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 92,
+    "power_type": "normal",
+    "name": "Siege Technician",
+    "power": 0
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Nilfgaard",
+    "id": 93,
+    "power_type": "normal",
+    "name": "Black Infantry Archer",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 94,
+    "power_type": "normal",
+    "name": "Heavy Zerrikanian Fire Scorpion",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 95,
+    "power_type": "normal",
+    "name": "Heavy Zerrikanian Fire Scorpion",
+    "power": 10
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 96,
+    "power_type": "normal",
+    "name": "Impera Brigade Guard",
+    "power": 3
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 97,
+    "power_type": "normal",
+    "name": "Impera Brigade Guard",
+    "power": 3
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 98,
+    "power_type": "normal",
+    "name": "Impera Brigade Guard",
+    "power": 3
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 99,
+    "power_type": "normal",
+    "name": "Impera Brigade Guard",
+    "power": 3
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 100,
+    "power_type": "normal",
+    "name": "Nausicaa Cavalry Rider",
+    "power": 2
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 101,
+    "power_type": "normal",
+    "name": "Nausicaa Cavalry Rider",
+    "power": 2
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 102,
+    "power_type": "normal",
+    "name": "Nausicaa Cavalry Rider",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Nilfgaard",
+    "id": 103,
+    "power_type": "normal",
+    "name": "Siege Engineer",
+    "power": 6
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 104,
+    "power_type": "normal",
+    "name": "Young Emissary",
+    "power": 5
+  },
+  {
+    "abilities": "Bond",
+    "card_type": 0,
+    "faction": "Nilfgaard",
+    "id": 105,
+    "power_type": "normal",
+    "name": "Young Emissary",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 106,
+    "power_type": "constant",
+    "name": "Eithné",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 107,
+    "power_type": "constant",
+    "name": "Saesenthessis",
+    "power": 10
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 108,
+    "power_type": "normal",
+    "name": "Isengrim Faoiltiarna",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 109,
+    "power_type": "constant",
+    "name": "Iorveth",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 110,
+    "power_type": "normal",
+    "name": "Dennis Cranmer",
+    "power": 6
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 111,
+    "power_type": "normal",
+    "name": "Milva",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 112,
+    "power_type": "normal",
+    "name": "Ida Emean aep Sivney",
+    "power": 6
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 113,
+    "power_type": "normal",
+    "name": "Filavandrel aen Fidhail",
+    "power": 6
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 114,
+    "power_type": "normal",
+    "name": "Yaevinn",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 115,
+    "power_type": "normal",
+    "name": "Toruviel",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 116,
+    "power_type": "normal",
+    "name": "Riordain",
+    "power": 1
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 117,
+    "power_type": "normal",
+    "name": "Ciaran aep Easnillien",
+    "power": 3
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 118,
+    "power_type": "normal",
+    "name": "Barclay Els",
+    "power": 6
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 119,
+    "power_type": "normal",
+    "name": "Havekar Healer",
+    "power": 0
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 120,
+    "power_type": "normal",
+    "name": "Havekar Healer",
+    "power": 0
+  },
+  {
+    "abilities": "Medic",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 121,
+    "power_type": "normal",
+    "name": "Havekar Healer",
+    "power": 0
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 122,
+    "power_type": "normal",
+    "name": "Vrihedd Brigade Veteran",
+    "power": 5
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 123,
+    "power_type": "normal",
+    "name": "Vrihedd Brigade Veteran",
+    "power": 5
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 124,
+    "power_type": "normal",
+    "name": "Dol Blathanna Archer",
+    "power": 6
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 125,
+    "power_type": "normal",
+    "name": "Dol Blathanna Scout",
+    "power": 6
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 126,
+    "power_type": "normal",
+    "name": "Dol Blathanna Scout",
+    "power": 6
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 127,
+    "power_type": "normal",
+    "name": "Dwarven Skirmisher",
+    "power": 3
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 128,
+    "power_type": "normal",
+    "name": "Dwarven Skirmisher",
+    "power": 3
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 129,
+    "power_type": "normal",
+    "name": "Dwarven Skirmisher",
+    "power": 3
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 130,
+    "power_type": "normal",
+    "name": "Mahakaman Defender",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 131,
+    "power_type": "normal",
+    "name": "Mahakaman Defender",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 132,
+    "power_type": "normal",
+    "name": "Mahakaman Defender",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 133,
+    "power_type": "normal",
+    "name": "Mahakaman Defender",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 134,
+    "power_type": "normal",
+    "name": "Mahakaman Defender",
+    "power": 5
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 135,
+    "power_type": "normal",
+    "name": "Elven Skirmisher",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 136,
+    "power_type": "normal",
+    "name": "Elven Skirmisher",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 137,
+    "power_type": "normal",
+    "name": "Elven Skirmisher",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 138,
+    "power_type": "normal",
+    "name": "Vrihedd Brigade Recruit",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Scoia’tael",
+    "id": 139,
+    "power_type": "normal",
+    "name": "Dol Blathanna Archer",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 140,
+    "power_type": "normal",
+    "name": "Havekar Smuggler",
+    "power": 5
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 141,
+    "power_type": "normal",
+    "name": "Havekar Smuggler",
+    "power": 5
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Scoia’tael",
+    "id": 142,
+    "power_type": "normal",
+    "name": "Havekar Smuggler",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 143,
+    "power_type": "constant",
+    "name": "Draug",
+    "power": 10
+  },
+  {
+    "abilities": "Morale",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 144,
+    "power_type": "constant",
+    "name": "Kayran",
+    "power": 18
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 145,
+    "power_type": "constant",
+    "name": "Imlerith",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 146,
+    "power_type": "constant",
+    "name": "Leshen",
+    "power": 10
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 147,
+    "power_type": "normal",
+    "name": "Forktail",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Monsters",
+    "id": 148,
+    "power_type": "normal",
+    "name": "Earth Elemental",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 149,
+    "power_type": "normal",
+    "name": "Fiend",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 150,
+    "power_type": "normal",
+    "name": "Plague Maiden",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 151,
+    "power_type": "normal",
+    "name": "Griffin",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 152,
+    "power_type": "normal",
+    "name": "Werewolf",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 153,
+    "power_type": "normal",
+    "name": "Botchling",
+    "power": 4
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 154,
+    "power_type": "normal",
+    "name": "Frightener",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Monsters",
+    "id": 155,
+    "power_type": "normal",
+    "name": "Ice Giant",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 156,
+    "power_type": "normal",
+    "name": "Endrega",
+    "power": 2
+  },
+  {
+    "abilities": "Agile",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 157,
+    "power_type": "normal",
+    "name": "Harpy",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 158,
+    "power_type": "normal",
+    "name": "Cockatrice",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 159,
+    "power_type": "normal",
+    "name": "Gargoyle",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 160,
+    "power_type": "normal",
+    "name": "Celaeno Harpy",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 161,
+    "power_type": "normal",
+    "name": "Grave Hag",
+    "power": 5
+  },
+  {
+    "abilities": null,
+    "card_type": 2,
+    "faction": "Monsters",
+    "id": 162,
+    "power_type": "normal",
+    "name": "Fire Elemental",
+    "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 163,
+    "power_type": "normal",
+    "name": "Foglet",
+    "power": 2
+  },
+  {
+    "abilities": null,
+    "card_type": 1,
+    "faction": "Monsters",
+    "id": 164,
+    "power_type": "normal",
+    "name": "Wyvern",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 2,
+    "faction": "Monsters",
+    "id": 165,
+    "power_type": "normal",
+    "name": "Arachas Behemoth",
+    "power": 6
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 166,
+    "power_type": "normal",
+    "name": "Arachas",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 167,
+    "power_type": "normal",
+    "name": "Arachas",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 168,
+    "power_type": "normal",
+    "name": "Arachas",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 169,
+    "power_type": "normal",
+    "name": "Nekker",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 170,
+    "power_type": "normal",
+    "name": "Nekker",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 171,
+    "power_type": "normal",
+    "name": "Nekker",
+    "power": 2
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 172,
+    "power_type": "normal",
+    "name": "Vampire: Ekimmara",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 173,
+    "power_type": "normal",
+    "name": "Vampire: Fleder",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 174,
+    "power_type": "normal",
+    "name": "Vampire: Garkain",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 175,
+    "power_type": "normal",
+    "name": "Vampire: Bruxa",
+    "power": 4
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 176,
+    "power_type": "normal",
+    "name": "Vampire: Katakan",
+    "power": 5
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 177,
+    "power_type": "normal",
+    "name": "Ghoul",
+    "power": 1
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 178,
+    "power_type": "normal",
+    "name": "Ghoul",
+    "power": 1
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 179,
+    "power_type": "normal",
+    "name": "Ghoul",
+    "power": 1
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 180,
+    "power_type": "normal",
+    "name": "Crone: Brewess",
+    "power": 6
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 181,
+    "power_type": "normal",
+    "name": "Crone: Weavess",
+    "power": 6
+  },
+  {
+    "abilities": "Muster",
+    "card_type": 0,
+    "faction": "Monsters",
+    "id": 182,
+    "power_type": "normal",
+    "name": "Crone: Whispess",
+    "power": 6
+  }
 ]
