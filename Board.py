@@ -1,30 +1,3 @@
-import config
-
-
-class CreatureCard():
-    def __init__(self, card_id, power, creature_type, name, power_type='normal', abilities=None):
-        self.id = card_id
-        self.power = power
-        self.power_bonus = 0
-        self.power_multiplier = 1
-        self.power_type = power_type
-        self.creature_type = creature_type
-        self.name = name
-        self.abilities = abilities
-
-        self.row = None
-
-    def get_power(self):
-        if self.power_type == 'normal':
-            power = (1 if self.row.bad_weather else self.power) + self.power_bonus
-            return power * config.ABILITY_HORN_MULTIPLIER if self.row.horn_active else power
-        else:
-            return self.power
-
-    def __str__(self):
-        print(str(self.get_power()))
-
-
 class Army:
     def __init__(self):
         self.rows = [ArmyRow(), ArmyRow(), ArmyRow()]
