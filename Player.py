@@ -13,11 +13,12 @@ class Player:
         self.leader_used = False
 
     def play_card(self, card):
-        callback = True
-        if card.ability:
-            callback = card.ability.apply(card)
-        if callback:
-            self.army.place_card(card)
+        callbacks = []
+        if card.abilities:
+            for ability in card.abilities:
+                callbacks.append(ability.apply(card))
+            if True not in callbacks:
+                self.army.place_card(card)
 
     def draw_hand(self):
         # initial draw
@@ -33,7 +34,10 @@ class Player:
                 self.deck.add_card(old_card)
 
     def choose_row(self):
-        return row
+        pass
+
+    def choose_unit(self):
+        pass
 
 
 cards = [x for x in range(1, 31)]
