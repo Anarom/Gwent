@@ -572,7 +572,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 69,
     "power_type": "constant",
     "name": "Letho of Gulet",
@@ -581,7 +581,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 70,
     "power_type": "constant",
     "name": "Menno Coehoorn",
@@ -590,7 +590,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 71,
     "power_type": "constant",
     "name": "Morvran Voorhis",
@@ -599,7 +599,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 72,
     "power_type": "constant",
     "name": "Tibor Eggebracht",
@@ -608,7 +608,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 73,
     "power_type": "normal",
     "name": "Albrich",
@@ -617,7 +617,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 74,
     "power_type": "normal",
     "name": "Assire var Anahid",
@@ -626,7 +626,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 75,
     "power_type": "normal",
     "name": "Cynthia",
@@ -635,7 +635,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 76,
     "power_type": "normal",
     "name": "Fringilla Vigo",
@@ -644,7 +644,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 77,
     "power_type": "normal",
     "name": "Morteisen",
@@ -653,7 +653,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 78,
     "power_type": "normal",
     "name": "Rainfarn",
@@ -662,7 +662,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 79,
     "power_type": "normal",
     "name": "Renuald aep Matsen",
@@ -671,7 +671,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 80,
     "power_type": "normal",
     "name": "Rotten Mangonel",
@@ -680,7 +680,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 81,
     "power_type": "normal",
     "name": "Shilard Fitz-Oesterlen",
@@ -689,7 +689,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 82,
     "power_type": "normal",
     "name": "Stefan Skellen",
@@ -698,7 +698,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 83,
     "power_type": "normal",
     "name": "Sweers",
@@ -707,7 +707,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 84,
     "power_type": "normal",
     "name": "Vanhemar",
@@ -716,7 +716,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 85,
     "power_type": "normal",
     "name": "Vattier de Rideaux",
@@ -725,7 +725,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 86,
     "power_type": "normal",
     "name": "Vreemde",
@@ -734,7 +734,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 87,
     "power_type": "normal",
     "name": "Cahir Mawr Dyffryn aep Ceallach",
@@ -743,7 +743,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 88,
     "power_type": "normal",
     "name": "Puttkammer",
@@ -752,7 +752,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 89,
     "power_type": "normal",
     "name": "Etolian Auxiliary Archers",
@@ -761,7 +761,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 90,
     "power_type": "normal",
     "name": "Etolian Auxiliary Archers",
@@ -770,7 +770,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 91,
     "power_type": "normal",
     "name": "Black Infantry Archer",
@@ -779,7 +779,7 @@
   {
     "abilities": "Medic",
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 92,
     "power_type": "normal",
     "name": "Siege Technician",
@@ -788,7 +788,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 93,
     "power_type": "normal",
     "name": "Black Infantry Archer",
@@ -797,7 +797,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 94,
     "power_type": "normal",
     "name": "Heavy Zerrikanian Fire Scorpion",
@@ -806,7 +806,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 95,
     "power_type": "normal",
     "name": "Heavy Zerrikanian Fire Scorpion",
@@ -815,7 +815,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 96,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -824,7 +824,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 97,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -833,7 +833,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 98,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -842,7 +842,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 99,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -851,7 +851,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 100,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -860,7 +860,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 101,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -869,7 +869,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 102,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -878,7 +878,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 103,
     "power_type": "normal",
     "name": "Siege Engineer",
@@ -887,7 +887,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 104,
     "power_type": "normal",
     "name": "Young Emissary",
@@ -896,7 +896,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction":  "Nilfgaardian Empire",
+    "faction": "Nilfgaardian Empire",
     "id": 105,
     "power_type": "normal",
     "name": "Young Emissary",
@@ -1594,5 +1594,117 @@
     "power_type": "normal",
     "name": "Crone: Whispess",
     "power": 6
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Northen Relams",
+    "id": 183,
+    "name": "The Steel-Forged"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Northen Relams",
+    "id": 184,
+    "name": "The Siegemaster"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Northen Relams",
+    "id": 185,
+    "name": "Lord Commander of the North"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Northen Relams",
+    "id": 186,
+    "name": "King of Temeria"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Nilfgaardian Empire",
+    "id": 187,
+    "name": "The Relentless"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Nilfgaardian Empire",
+    "id": 188,
+    "name": "The White Flame"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Nilfgaardian Empire",
+    "id": 189,
+    "name": "The Emperor of Nilfgaardian Empire"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Nilfgaardian Empire",
+    "id": 190,
+    "name": "His Imperial Majesty"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Scoia'tael",
+    "id": 191,
+    "name": "Queen of Dol Blathanna"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Scoia'tael",
+    "id": 192,
+    "name": "The Beautiful"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Scoia'tael",
+    "id": 193,
+    "name": "Daisy of the Valley"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Scoia'tael",
+    "id": 194,
+    "name": "Pureblood Elf"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Monsters",
+    "id": 195,
+    "name": "Destroyer of Worlds"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Monsters",
+    "id": 196,
+    "name": "Bringer of Death"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Monsters",
+    "id": 197,
+    "name": "King of the Wild Hunt"
+  },
+  {
+    "abilities": null,
+    "card_type": 4,
+    "faction": "Monsters",
+    "id": 198,
+    "name": "Commander of the Red Riders"
   }
 ]
