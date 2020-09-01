@@ -7,6 +7,8 @@ class Card:
         self.name = name
         self.faction = faction
 
+    def __str__(self):
+        return self.name
 
 class AbilityCard(Card):
     def __init__(self, card_id, name, faction, abilities):
@@ -32,5 +34,4 @@ class UnitCard(AbilityCard):
         else:
             return self.power
 
-    def __str__(self):
-        return self.name
+
