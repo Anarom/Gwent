@@ -1,7 +1,7 @@
 [
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 1,
   "is_hero": true,
@@ -10,16 +10,16 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 2,
   "is_hero": true,
-  "name": "Cirilla Fiona Elen Rianno",
+  "name": "Cirilla Fiona Elen Riannon",
   "power": 15
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 3,
   "is_hero": false,
@@ -28,7 +28,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Neutral",
   "id": 4,
   "is_hero": true,
@@ -37,7 +37,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 5,
   "is_hero": true,
@@ -46,7 +46,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 6,
   "is_hero": false,
@@ -55,7 +55,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 7,
   "is_hero": false,
@@ -64,7 +64,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 8,
   "is_hero": false,
@@ -73,7 +73,7 @@
  },
  {
   "ability": "Scorch",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 9,
   "is_hero": false,
@@ -82,163 +82,163 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Neutral",
   "id": 10,
   "is_hero": true,
-  "name": "Avallac’h",
+  "name": "Mysterious Elf",
   "power": 0
  },
  {
   "ability": "Decoy",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 11,
   "name": "Decoy"
  },
  {
   "ability": "Decoy",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 12,
   "name": "Decoy"
  },
  {
   "ability": "Decoy",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 13,
   "name": "Decoy"
  },
  {
   "ability": "Commander’s Horn",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 14,
   "name": "Commander’s Horn"
  },
  {
   "ability": "Commander’s Horn",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 15,
   "name": "Commander’s Horn"
  },
  {
   "ability": "Commander’s Horn",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 16,
   "name": "Commander’s Horn"
  },
  {
   "ability": "Scorch",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 17,
   "name": "Scorch"
  },
  {
   "ability": "Scorch",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 18,
   "name": "Scorch"
  },
  {
   "ability": "Scorch",
-  "card_type": "special",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 19,
   "name": "Scorch"
  },
  {
   "ability": "Biting Frost",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 20,
   "name": "Biting Frost"
  },
  {
   "ability": "Biting Frost",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 21,
   "name": "Biting Frost"
  },
  {
   "ability": "Biting Frost",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 22,
   "name": "Biting Frost"
  },
  {
   "ability": "Impenetrable Fog",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 23,
   "name": "Impenetrable Fog"
  },
  {
   "ability": "Impenetrable Fog",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 24,
   "name": "Impenetrable Fog"
  },
  {
   "ability": "Impenetrable Fog",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 25,
   "name": "Impenetrable Fog"
  },
  {
   "ability": "Torrential Rain",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 26,
   "name": "Torrential Rain"
  },
  {
   "ability": "Torrential Rain",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 27,
   "name": "Torrential Rain"
  },
  {
   "ability": "Torrential Rain",
-  "card_type": "weather",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 28,
   "name": "Torrential Rain"
  },
  {
-  "ability": "Clear Weather",
-  "card_type": "weather",
+  "ability": "Clear 3",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 29,
-  "name": "Clear Weather"
+  "name": "Clear 3"
  },
  {
-  "ability": "Clear Weather",
-  "card_type": "weather",
+  "ability": "Clear 3",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 30,
-  "name": "Clear Weather"
+  "name": "Clear 3"
  },
  {
-  "ability": "Clear Weather",
-  "card_type": "weather",
+  "ability": "Clear 3",
+  "card_type": 3,
   "faction": "Neutral",
   "id": 31,
-  "name": "Clear Weather"
+  "name": "Clear 3"
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 32,
   "is_hero": true,
@@ -247,7 +247,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 33,
   "is_hero": true,
@@ -256,7 +256,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 34,
   "is_hero": true,
@@ -265,7 +265,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 35,
   "is_hero": true,
@@ -274,7 +274,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 36,
   "is_hero": false,
@@ -283,7 +283,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 37,
   "is_hero": false,
@@ -292,7 +292,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 38,
   "is_hero": false,
@@ -301,7 +301,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 39,
   "is_hero": false,
@@ -310,7 +310,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 40,
   "is_hero": false,
@@ -319,7 +319,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 41,
   "is_hero": false,
@@ -328,16 +328,16 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 42,
   "is_hero": false,
-  "name": "Síle de Tansarville",
+  "name": "Síle de Tansarville",
   "power": 5
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 43,
   "is_hero": false,
@@ -346,7 +346,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 44,
   "is_hero": false,
@@ -355,7 +355,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 45,
   "is_hero": false,
@@ -364,7 +364,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 46,
   "is_hero": false,
@@ -373,7 +373,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 47,
   "is_hero": false,
@@ -382,7 +382,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 48,
   "is_hero": false,
@@ -391,34 +391,34 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 49,
   "is_hero": false,
-  "name": "Poor F*cking Infantry",
+  "name": "Poor Fucking Infantry",
   "power": 1
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 50,
   "is_hero": false,
-  "name": "Poor F*cking Infantry",
+  "name": "Poor Fucking Infantry",
   "power": 1
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 51,
   "is_hero": false,
-  "name": "Poor F*cking Infantry",
+  "name": "Poor Fucking Infantry",
   "power": 1
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 52,
   "is_hero": false,
@@ -427,7 +427,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 53,
   "is_hero": false,
@@ -436,7 +436,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Northen Relams",
   "id": 54,
   "is_hero": false,
@@ -445,7 +445,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 55,
   "is_hero": false,
@@ -454,7 +454,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 56,
   "is_hero": false,
@@ -463,7 +463,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 57,
   "is_hero": false,
@@ -472,7 +472,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 58,
   "is_hero": false,
@@ -481,7 +481,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 59,
   "is_hero": false,
@@ -490,7 +490,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 60,
   "is_hero": false,
@@ -499,7 +499,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 61,
   "is_hero": false,
@@ -508,7 +508,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 62,
   "is_hero": false,
@@ -517,7 +517,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 63,
   "is_hero": false,
@@ -526,7 +526,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 64,
   "is_hero": false,
@@ -535,7 +535,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 65,
   "is_hero": false,
@@ -544,7 +544,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Northen Relams",
   "id": 66,
   "is_hero": false,
@@ -553,7 +553,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 67,
   "is_hero": false,
@@ -562,7 +562,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Northen Relams",
   "id": 68,
   "is_hero": false,
@@ -571,7 +571,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 69,
   "is_hero": true,
@@ -580,7 +580,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 70,
   "is_hero": true,
@@ -589,7 +589,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 71,
   "is_hero": true,
@@ -598,7 +598,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 72,
   "is_hero": true,
@@ -607,7 +607,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 73,
   "is_hero": false,
@@ -616,7 +616,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 74,
   "is_hero": false,
@@ -625,7 +625,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 75,
   "is_hero": false,
@@ -634,7 +634,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 76,
   "is_hero": false,
@@ -643,7 +643,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 77,
   "is_hero": false,
@@ -652,7 +652,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 78,
   "is_hero": false,
@@ -661,7 +661,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 79,
   "is_hero": false,
@@ -670,7 +670,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 80,
   "is_hero": false,
@@ -679,7 +679,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 81,
   "is_hero": false,
@@ -688,7 +688,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 82,
   "is_hero": false,
@@ -697,7 +697,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 83,
   "is_hero": false,
@@ -706,7 +706,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 84,
   "is_hero": false,
@@ -715,7 +715,7 @@
  },
  {
   "ability": "Spy",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 85,
   "is_hero": false,
@@ -724,7 +724,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 86,
   "is_hero": false,
@@ -733,7 +733,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 87,
   "is_hero": false,
@@ -742,7 +742,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 88,
   "is_hero": false,
@@ -751,7 +751,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 89,
   "is_hero": false,
@@ -760,7 +760,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 90,
   "is_hero": false,
@@ -769,7 +769,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 91,
   "is_hero": false,
@@ -778,16 +778,16 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 92,
   "is_hero": false,
-  "name": "Siege Technican",
+  "name": "Siege Technician",
   "power": 0
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Nilfgaard",
   "id": 93,
   "is_hero": false,
@@ -796,7 +796,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 94,
   "is_hero": false,
@@ -805,79 +805,79 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 95,
   "is_hero": false,
-  "name": "Zerrikanian Fire Scorpion",
+  "name": "Heavy Zerrikanian Fire Scorpion",
   "power": 10
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 96,
   "is_hero": false,
-  "name": "Impera Brigade",
+  "name": "Impera Brigade Guard",
   "power": 3
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 97,
   "is_hero": false,
-  "name": "Impera Brigade",
+  "name": "Impera Brigade Guard",
   "power": 3
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 98,
   "is_hero": false,
-  "name": "Impera Brigade",
+  "name": "Impera Brigade Guard",
   "power": 3
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 99,
   "is_hero": false,
-  "name": "Impera Brigade",
+  "name": "Impera Brigade Guard",
   "power": 3
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 100,
   "is_hero": false,
-  "name": "Nausicaa Cavalry Brigade",
+  "name": "Nausicaa Cavalry Rider",
   "power": 2
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 101,
   "is_hero": false,
-  "name": "Nausicaa Cavalry Brigade",
+  "name": "Nausicaa Cavalry Rider",
   "power": 2
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 102,
   "is_hero": false,
-  "name": "Nausicaa Cavalry Brigade",
+  "name": "Nausicaa Cavalry Rider",
   "power": 2
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Nilfgaard",
   "id": 103,
   "is_hero": false,
@@ -886,7 +886,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 104,
   "is_hero": false,
@@ -895,7 +895,7 @@
  },
  {
   "ability": "Bond",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Nilfgaard",
   "id": 105,
   "is_hero": false,
@@ -904,25 +904,25 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 106,
   "is_hero": true,
-  "name": "Eithné",
+  "name": "Eithné",
   "power": 10
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 107,
   "is_hero": true,
-  "name": "Saskia / Saesenthessis",
+  "name": "Saesenthessis",
   "power": 10
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 108,
   "is_hero": false,
@@ -931,7 +931,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 109,
   "is_hero": true,
@@ -940,7 +940,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 110,
   "is_hero": false,
@@ -949,7 +949,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 111,
   "is_hero": false,
@@ -958,25 +958,25 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 112,
   "is_hero": false,
-  "name": "Ida Emean",
+  "name": "Ida Emean aep Sivney",
   "power": 6
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 113,
   "is_hero": false,
-  "name": "Filavandrel",
+  "name": "Filavandrel aen Fidhail",
   "power": 6
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 114,
   "is_hero": false,
@@ -985,7 +985,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 115,
   "is_hero": false,
@@ -994,7 +994,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 116,
   "is_hero": false,
@@ -1003,7 +1003,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 117,
   "is_hero": false,
@@ -1012,7 +1012,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 118,
   "is_hero": false,
@@ -1021,7 +1021,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 119,
   "is_hero": false,
@@ -1030,7 +1030,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 120,
   "is_hero": false,
@@ -1039,7 +1039,7 @@
  },
  {
   "ability": "Medic",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 121,
   "is_hero": false,
@@ -1048,7 +1048,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 122,
   "is_hero": false,
@@ -1057,16 +1057,16 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 123,
   "is_hero": false,
-  "name": "Vrihedd Brigade Veterean",
+  "name": "Vrihedd Brigade Veteran",
   "power": 5
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 124,
   "is_hero": false,
@@ -1075,7 +1075,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 125,
   "is_hero": false,
@@ -1084,7 +1084,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 126,
   "is_hero": false,
@@ -1093,34 +1093,34 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 127,
   "is_hero": false,
-  "name": "Dwarf Skirmisher",
+  "name": "Dwarven Skirmisher",
   "power": 3
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 128,
   "is_hero": false,
-  "name": "Dwarf Skirmisher",
+  "name": "Dwarven Skirmisher",
   "power": 3
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 129,
   "is_hero": false,
-  "name": "Dwarf Skirmisher",
+  "name": "Dwarven Skirmisher",
   "power": 3
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 130,
   "is_hero": false,
@@ -1129,7 +1129,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 131,
   "is_hero": false,
@@ -1138,7 +1138,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 132,
   "is_hero": false,
@@ -1147,7 +1147,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 133,
   "is_hero": false,
@@ -1156,7 +1156,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 134,
   "is_hero": false,
@@ -1165,7 +1165,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 135,
   "is_hero": false,
@@ -1174,7 +1174,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 136,
   "is_hero": false,
@@ -1183,7 +1183,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 137,
   "is_hero": false,
@@ -1192,16 +1192,16 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 138,
   "is_hero": false,
-  "name": "Vrihedd Cadet",
+  "name": "Vrihedd Brigade Recruit",
   "power": 4
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Scoia’tael",
   "id": 139,
   "is_hero": false,
@@ -1210,7 +1210,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 140,
   "is_hero": false,
@@ -1219,7 +1219,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 141,
   "is_hero": false,
@@ -1228,7 +1228,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Scoia’tael",
   "id": 142,
   "is_hero": false,
@@ -1237,7 +1237,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 143,
   "is_hero": true,
@@ -1246,7 +1246,7 @@
  },
  {
   "ability": "Morale",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 144,
   "is_hero": true,
@@ -1255,7 +1255,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 145,
   "is_hero": true,
@@ -1264,7 +1264,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 146,
   "is_hero": true,
@@ -1273,7 +1273,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 147,
   "is_hero": false,
@@ -1282,7 +1282,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Monsters",
   "id": 148,
   "is_hero": false,
@@ -1291,7 +1291,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 149,
   "is_hero": false,
@@ -1300,7 +1300,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 150,
   "is_hero": false,
@@ -1309,7 +1309,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 151,
   "is_hero": false,
@@ -1318,7 +1318,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 152,
   "is_hero": false,
@@ -1327,7 +1327,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 153,
   "is_hero": false,
@@ -1336,7 +1336,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 154,
   "is_hero": false,
@@ -1345,7 +1345,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Monsters",
   "id": 155,
   "is_hero": false,
@@ -1354,7 +1354,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 156,
   "is_hero": false,
@@ -1363,7 +1363,7 @@
  },
  {
   "ability": "Agile",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 157,
   "is_hero": false,
@@ -1372,7 +1372,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 158,
   "is_hero": false,
@@ -1381,7 +1381,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 159,
   "is_hero": false,
@@ -1390,7 +1390,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 160,
   "is_hero": false,
@@ -1399,7 +1399,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 161,
   "is_hero": false,
@@ -1408,7 +1408,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Monsters",
   "id": 162,
   "is_hero": false,
@@ -1417,7 +1417,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 163,
   "is_hero": false,
@@ -1426,7 +1426,7 @@
  },
  {
   "ability": null,
-  "card_type": "unit",
+  "card_type": 1,
   "faction": "Monsters",
   "id": 164,
   "is_hero": false,
@@ -1435,7 +1435,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 2,
   "faction": "Monsters",
   "id": 165,
   "is_hero": false,
@@ -1444,7 +1444,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 166,
   "is_hero": false,
@@ -1453,7 +1453,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 167,
   "is_hero": false,
@@ -1462,7 +1462,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 168,
   "is_hero": false,
@@ -1471,7 +1471,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 169,
   "is_hero": false,
@@ -1480,7 +1480,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 170,
   "is_hero": false,
@@ -1489,7 +1489,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 171,
   "is_hero": false,
@@ -1498,7 +1498,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 172,
   "is_hero": false,
@@ -1507,7 +1507,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 173,
   "is_hero": false,
@@ -1516,7 +1516,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 174,
   "is_hero": false,
@@ -1525,7 +1525,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 175,
   "is_hero": false,
@@ -1534,7 +1534,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 176,
   "is_hero": false,
@@ -1543,7 +1543,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 177,
   "is_hero": false,
@@ -1552,7 +1552,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 178,
   "is_hero": false,
@@ -1561,7 +1561,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 179,
   "is_hero": false,
@@ -1570,7 +1570,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 180,
   "is_hero": false,
@@ -1579,7 +1579,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 181,
   "is_hero": false,
@@ -1588,7 +1588,7 @@
  },
  {
   "ability": "Muster",
-  "card_type": "unit",
+  "card_type": 0,
   "faction": "Monsters",
   "id": 182,
   "is_hero": false,
