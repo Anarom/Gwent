@@ -216,25 +216,25 @@
     "name": "Torrential Rain"
   },
   {
-    "abilities": "Clear 3",
+    "abilities": "Clear Weather",
     "card_type": 3,
     "faction": "Neutral",
     "id": 29,
-    "name": "Clear 3"
+    "name": "Clear Weather"
   },
   {
-    "abilities": "Clear 3",
+    "abilities": "Clear Weather",
     "card_type": 3,
     "faction": "Neutral",
     "id": 30,
-    "name": "Clear 3"
+    "name": "Clear Weather"
   },
   {
-    "abilities": "Clear 3",
+    "abilities": "Clear Weather",
     "card_type": 3,
     "faction": "Neutral",
     "id": 31,
-    "name": "Clear 3"
+    "name": "Clear Weather"
   },
   {
     "abilities": null,
@@ -572,7 +572,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 69,
     "power_type": "constant",
     "name": "Letho of Gulet",
@@ -581,7 +581,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 70,
     "power_type": "constant",
     "name": "Menno Coehoorn",
@@ -590,7 +590,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 71,
     "power_type": "constant",
     "name": "Morvran Voorhis",
@@ -599,7 +599,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 72,
     "power_type": "constant",
     "name": "Tibor Eggebracht",
@@ -608,7 +608,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 73,
     "power_type": "normal",
     "name": "Albrich",
@@ -617,7 +617,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 74,
     "power_type": "normal",
     "name": "Assire var Anahid",
@@ -626,7 +626,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 75,
     "power_type": "normal",
     "name": "Cynthia",
@@ -635,7 +635,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 76,
     "power_type": "normal",
     "name": "Fringilla Vigo",
@@ -644,7 +644,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 77,
     "power_type": "normal",
     "name": "Morteisen",
@@ -653,7 +653,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 78,
     "power_type": "normal",
     "name": "Rainfarn",
@@ -662,7 +662,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 79,
     "power_type": "normal",
     "name": "Renuald aep Matsen",
@@ -671,7 +671,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 80,
     "power_type": "normal",
     "name": "Rotten Mangonel",
@@ -680,7 +680,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 81,
     "power_type": "normal",
     "name": "Shilard Fitz-Oesterlen",
@@ -689,7 +689,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 82,
     "power_type": "normal",
     "name": "Stefan Skellen",
@@ -698,7 +698,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 83,
     "power_type": "normal",
     "name": "Sweers",
@@ -707,7 +707,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 84,
     "power_type": "normal",
     "name": "Vanhemar",
@@ -716,7 +716,7 @@
   {
     "abilities": "Spy",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 85,
     "power_type": "normal",
     "name": "Vattier de Rideaux",
@@ -725,7 +725,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 86,
     "power_type": "normal",
     "name": "Vreemde",
@@ -734,7 +734,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 87,
     "power_type": "normal",
     "name": "Cahir Mawr Dyffryn aep Ceallach",
@@ -743,7 +743,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 88,
     "power_type": "normal",
     "name": "Puttkammer",
@@ -752,7 +752,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 89,
     "power_type": "normal",
     "name": "Etolian Auxiliary Archers",
@@ -761,7 +761,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 90,
     "power_type": "normal",
     "name": "Etolian Auxiliary Archers",
@@ -770,7 +770,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 91,
     "power_type": "normal",
     "name": "Black Infantry Archer",
@@ -779,7 +779,7 @@
   {
     "abilities": "Medic",
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 92,
     "power_type": "normal",
     "name": "Siege Technician",
@@ -788,7 +788,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 93,
     "power_type": "normal",
     "name": "Black Infantry Archer",
@@ -797,7 +797,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 94,
     "power_type": "normal",
     "name": "Heavy Zerrikanian Fire Scorpion",
@@ -806,7 +806,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 95,
     "power_type": "normal",
     "name": "Heavy Zerrikanian Fire Scorpion",
@@ -815,7 +815,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 96,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -824,7 +824,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 97,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -833,7 +833,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 98,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -842,7 +842,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 99,
     "power_type": "normal",
     "name": "Impera Brigade Guard",
@@ -851,7 +851,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 100,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -860,7 +860,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 101,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -869,7 +869,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 102,
     "power_type": "normal",
     "name": "Nausicaa Cavalry Rider",
@@ -878,7 +878,7 @@
   {
     "abilities": null,
     "card_type": 2,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 103,
     "power_type": "normal",
     "name": "Siege Engineer",
@@ -887,7 +887,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 104,
     "power_type": "normal",
     "name": "Young Emissary",
@@ -896,7 +896,7 @@
   {
     "abilities": "Bond",
     "card_type": 0,
-    "faction": "Nilfgaard",
+    "faction":  "Nilfgaardian Empire",
     "id": 105,
     "power_type": "normal",
     "name": "Young Emissary",
@@ -905,7 +905,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 106,
     "power_type": "constant",
     "name": "Eithné",
@@ -914,7 +914,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 107,
     "power_type": "constant",
     "name": "Saesenthessis",
@@ -923,7 +923,7 @@
   {
     "abilities": "Morale",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 108,
     "power_type": "normal",
     "name": "Isengrim Faoiltiarna",
@@ -932,7 +932,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 109,
     "power_type": "constant",
     "name": "Iorveth",
@@ -941,7 +941,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 110,
     "power_type": "normal",
     "name": "Dennis Cranmer",
@@ -950,7 +950,7 @@
   {
     "abilities": "Morale",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 111,
     "power_type": "normal",
     "name": "Milva",
@@ -959,7 +959,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 112,
     "power_type": "normal",
     "name": "Ida Emean aep Sivney",
@@ -968,7 +968,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 113,
     "power_type": "normal",
     "name": "Filavandrel aen Fidhail",
@@ -977,7 +977,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 114,
     "power_type": "normal",
     "name": "Yaevinn",
@@ -986,7 +986,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 115,
     "power_type": "normal",
     "name": "Toruviel",
@@ -995,7 +995,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 116,
     "power_type": "normal",
     "name": "Riordain",
@@ -1004,7 +1004,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 117,
     "power_type": "normal",
     "name": "Ciaran aep Easnillien",
@@ -1013,7 +1013,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 118,
     "power_type": "normal",
     "name": "Barclay Els",
@@ -1022,7 +1022,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 119,
     "power_type": "normal",
     "name": "Havekar Healer",
@@ -1031,7 +1031,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 120,
     "power_type": "normal",
     "name": "Havekar Healer",
@@ -1040,7 +1040,7 @@
   {
     "abilities": "Medic",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 121,
     "power_type": "normal",
     "name": "Havekar Healer",
@@ -1049,7 +1049,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 122,
     "power_type": "normal",
     "name": "Vrihedd Brigade Veteran",
@@ -1058,7 +1058,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 123,
     "power_type": "normal",
     "name": "Vrihedd Brigade Veteran",
@@ -1067,7 +1067,7 @@
   {
     "abilities": "Agile",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 124,
     "power_type": "normal",
     "name": "Dol Blathanna Archer",
@@ -1076,7 +1076,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 125,
     "power_type": "normal",
     "name": "Dol Blathanna Scout",
@@ -1085,7 +1085,7 @@
   {
     "abilities": "Agile",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 126,
     "power_type": "normal",
     "name": "Dol Blathanna Scout",
@@ -1094,7 +1094,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 127,
     "power_type": "normal",
     "name": "Dwarven Skirmisher",
@@ -1103,7 +1103,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 128,
     "power_type": "normal",
     "name": "Dwarven Skirmisher",
@@ -1112,7 +1112,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 129,
     "power_type": "normal",
     "name": "Dwarven Skirmisher",
@@ -1121,7 +1121,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 130,
     "power_type": "normal",
     "name": "Mahakaman Defender",
@@ -1130,7 +1130,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 131,
     "power_type": "normal",
     "name": "Mahakaman Defender",
@@ -1139,7 +1139,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 132,
     "power_type": "normal",
     "name": "Mahakaman Defender",
@@ -1148,7 +1148,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 133,
     "power_type": "normal",
     "name": "Mahakaman Defender",
@@ -1157,7 +1157,7 @@
   {
     "abilities": null,
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 134,
     "power_type": "normal",
     "name": "Mahakaman Defender",
@@ -1166,7 +1166,7 @@
   {
     "abilities": "Muster",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 135,
     "power_type": "normal",
     "name": "Elven Skirmisher",
@@ -1175,7 +1175,7 @@
   {
     "abilities": "Muster",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 136,
     "power_type": "normal",
     "name": "Elven Skirmisher",
@@ -1184,7 +1184,7 @@
   {
     "abilities": "Muster",
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 137,
     "power_type": "normal",
     "name": "Elven Skirmisher",
@@ -1193,7 +1193,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 138,
     "power_type": "normal",
     "name": "Vrihedd Brigade Recruit",
@@ -1202,7 +1202,7 @@
   {
     "abilities": null,
     "card_type": 1,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 139,
     "power_type": "normal",
     "name": "Dol Blathanna Archer",
@@ -1211,7 +1211,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 140,
     "power_type": "normal",
     "name": "Havekar Smuggler",
@@ -1220,7 +1220,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 141,
     "power_type": "normal",
     "name": "Havekar Smuggler",
@@ -1229,7 +1229,7 @@
   {
     "abilities": "Muster",
     "card_type": 0,
-    "faction": "Scoia’tael",
+    "faction": "Scoia'tael",
     "id": 142,
     "power_type": "normal",
     "name": "Havekar Smuggler",
