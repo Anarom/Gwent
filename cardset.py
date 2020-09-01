@@ -1,6 +1,7 @@
 import random
 import json
 from card import AbilityCard, UnitCard
+import config
 
 
 class CardSet:
@@ -53,7 +54,8 @@ class CardSet:
 
 class CardLib:
     def __init__(self):
-        self.unit_cards = []
+        self.unit_cards = {'Northen Relams': [], 'Neutral': [], 'Nilfgaardian Empire': [],
+                           "Scoia'tael": [], 'Monsters': []}
         self.special_cards = []
         with open('cards.json', 'r', encoding='utf-8') as file:
             card_records = json.load(file)
@@ -63,7 +65,15 @@ class CardLib:
             if record['card_type'] < 3:  # card in unit
                 card = UnitCard(record['id'], record['name'], record['faction'], record['card_type'],
                                 record['abilities'], record['power'], record['power_type'])
-                self.unit_cards.append(card)
+                self.unit_cards[record['faction']].append(card)
             elif record['card_type'] == 3:
                 card = AbilityCard(record['id'], record['name'], record['faction'], record['abilities'])
                 self.special_cards.append(card)
+
+    def generate_deck(self, faction, s_card_amount=random.randint(0, config.DECK_SPECIAL_CARD_LIMIT)):
+        if s_card_amount > config.DECK_SPECIAL_CARD_LIMIT:
+            print(f'Maximum amount of special cards exceeded ({config.DECK_SPECIAL_CARD_LIMIT})')
+            return []
+        s_cards = random.choices(self.special_cards, k=s_card_amount)
+        u_cards = random.choices(self.unit_cards[faction], k=config.DECK_UNIT_CARD_AMOUNT)
+        return s_cards + u_cards
