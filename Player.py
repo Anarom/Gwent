@@ -3,7 +3,6 @@ import config
 
 
 class Player:
-
     def __init__(self, deck_cards):
         self.deck = CardSet(deck_cards)
         self.hand = CardSet()
@@ -38,8 +37,3 @@ class Player:
 
     def choose_unit(self):
         pass
-
-
-cards = [x for x in range(1, 31)]
-p = Player(cards)
-p.draw_hand()

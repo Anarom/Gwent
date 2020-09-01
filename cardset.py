@@ -1,4 +1,6 @@
 import random
+import json
+from card import SpecialCard, UnitCard
 
 
 class CardSet:
@@ -47,3 +49,19 @@ class CardSet:
         for card in self.cards:
             print(card, end=' ')
         print()
+
+
+class CardLib:
+    def __init__(self):
+        self.unit_cards = []
+        self.special_cards = []
+        with open('cards.json', 'r', encoding='utf-8') as file:
+            cards = json.load(file)
+        with open('leaders.json', 'r', encoding='utf-8') as file:
+            self.leaders = json.load(file)
+        for card in cards:
+            if card['card_type'] == 'unit':
+                self.unit_cards.append(UnitCard(card['id'], card['name'], card['faction'], card[''],card['power'],))
+
+
+lib = CardLib()
