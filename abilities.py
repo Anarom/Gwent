@@ -80,3 +80,8 @@ class Ability:
                         card_drawn = False
         for card in cards:
             self.player.army.place_card(card)
+
+    def decoy(self):
+        self.player.remove_card(self.player.choose_unit(), in_hand=True)
+
+
