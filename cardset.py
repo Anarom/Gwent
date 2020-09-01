@@ -1,6 +1,6 @@
 import random
 import json
-from card import AbilityCard, UnitCard
+from card import AbilityCard, LeaderCard, UnitCard
 import config
 
 
@@ -52,28 +52,40 @@ class CardSet:
         print()
 
 
-class CardLib:
+class GameLib:
     def __init__(self):
-        self.unit_cards = {'Northen Relams': [], 'Neutral': [], 'Nilfgaardian Empire': [],
-                           "Scoia'tael": [], 'Monsters': []}
+        self.factions = ['Northen Relams', 'Nilfgaardian Empire', "Scoia'tael", 'Monsters','Neutral']
+        self.units = {}
+        self.leaders = {}
         self.special_cards = []
+        for faction in self.factions:
+            self.units[faction] = []
+            self.leaders[faction] = []
+        self.import_data()
+
+    def import_data(self):
         with open('cards.json', 'r', encoding='utf-8') as file:
-            card_records = json.load(file)
-        with open('leaders.json', 'r', encoding='utf-8') as file:
-            self.leaders = json.load(file)
-        for record in card_records:
-            if record['card_type'] < 3:  # card in unit
-                card = UnitCard(record['id'], record['name'], record['faction'], record['card_type'],
-                                record['abilities'], record['power'], record['power_type'])
-                self.unit_cards[record['faction']].append(card)
-            elif record['card_type'] == 3:
+            records = json.load(file)
+        for record in records:
+            if record['card_type'] < 3:  # card is unit
+                card = UnitCard(record['id'], record['name'], record['faction'], record['abilities'],
+                                record['card_type'], record['power'], record['power_type'])
+                self.units[record['faction']].append(card)
+            elif record['card_type'] == 3:  # card is special
                 card = AbilityCard(record['id'], record['name'], record['faction'], record['abilities'])
                 self.special_cards.append(card)
+            else:  # card is leader
+                card = LeaderCard(record['id'], record['name'], record['faction'], record['abilities'])
+                self.leaders[record['faction']].append(card)
 
     def generate_deck(self, faction, s_card_amount=random.randint(0, config.DECK_SPECIAL_CARD_LIMIT)):
         if s_card_amount > config.DECK_SPECIAL_CARD_LIMIT:
             print(f'Maximum amount of special cards exceeded ({config.DECK_SPECIAL_CARD_LIMIT})')
             return []
         s_cards = random.choices(self.special_cards, k=s_card_amount)
-        u_cards = random.choices(self.unit_cards[faction], k=config.DECK_UNIT_CARD_AMOUNT)
+        u_cards = random.choices(self.units[faction], k=config.DECK_UNIT_CARD_AMOUNT)
         return s_cards + u_cards
+
+
+if __name__ == '__main__':
+    lib = GameLib()

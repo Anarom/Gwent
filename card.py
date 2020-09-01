@@ -10,10 +10,17 @@ class Card:
     def __str__(self):
         return self.name
 
+
 class AbilityCard(Card):
     def __init__(self, card_id, name, faction, abilities):
         super().__init__(card_id, name, faction)
         self.abilities = abilities
+
+
+class LeaderCard(AbilityCard):
+    def __init__(self, card_id, name, faction, abilities):
+        super().__init__(card_id, name, faction, abilities)
+        self.is_used = False
 
 
 class UnitCard(AbilityCard):
@@ -33,5 +40,3 @@ class UnitCard(AbilityCard):
             return power * config.ABILITY_HORN_MULTIPLIER if self.row.horn_active else power
         else:
             return self.power
-
-
