@@ -54,7 +54,7 @@ class CardSet:
 
 class GameLib:
     def __init__(self):
-        self.factions = ['Northen Relams', 'Nilfgaardian Empire', "Scoia'tael", 'Monsters','Neutral']
+        self.factions = ['Northen Relams', 'Nilfgaardian Empire', "Scoia'tael", 'Monsters', 'Neutral']
         self.units = {}
         self.leaders = {}
         self.special_cards = []

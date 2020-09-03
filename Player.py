@@ -3,13 +3,12 @@ import config
 
 
 class Player:
-    def __init__(self, deck_cards):
-        self.deck = CardSet(deck_cards)
+    def __init__(self, deck, leader):
+        self.deck = CardSet(deck)
         self.hand = CardSet()
+        self.leader = leader
         self.discard_pile = CardSet()
         self.army = None
-        self.opponent = None
-        self.leader_used = False
 
     def play_card(self, card):
         callbacks = []
