@@ -6,6 +6,7 @@ class Card:
         self.id = card_id
         self.name = name
         self.faction = faction
+        self.is_unit = False
 
     def __str__(self):
         return self.name
@@ -24,10 +25,11 @@ class LeaderCard(AbilityCard):
 
 
 class UnitCard(AbilityCard):
-    def __init__(self, card_id, name, faction, abilities, unit_type, power, power_type):
+    def __init__(self, card_id, name, faction, abilities, unit_type, power, is_hero):
         super().__init__(card_id, name, faction, abilities)
         self.power = power
-        self.power_type = power_type
+        self.is_unit = True
+        self.is_hero = is_hero
         self.unit_type = unit_type
 
         self.power_bonus = 0
@@ -35,8 +37,8 @@ class UnitCard(AbilityCard):
         self.row = None
 
     def get_power(self):
-        if self.power_type == 'normal':
-            power = (1 if self.row.bad_weather else self.power) + self.power_bonus
-            return power * config.ABILITY_HORN_MULTIPLIER if self.row.horn_active else power
-        else:
+        if self.is_hero:
             return self.power
+        else:
+            power = (1 if self.row.bad_weather else self.power) + self.power_bonus
+            return power * config.ABILITY_HORN_MULTIPLIER if self.row.horn_sources else power

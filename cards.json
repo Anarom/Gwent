@@ -4,7 +4,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 1,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Geralt of Rivia",
     "power": 15
   },
@@ -13,7 +13,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 2,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Cirilla Fiona Elen Riannon",
     "power": 15
   },
@@ -22,7 +22,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 3,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vesemir",
     "power": 6
   },
@@ -31,7 +31,7 @@
     "card_type": 1,
     "faction": "Neutral",
     "id": 4,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Yennefer of Vengerberg",
     "power": 7
   },
@@ -40,7 +40,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 5,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Triss Merigold",
     "power": 7
   },
@@ -49,7 +49,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 6,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dandelion",
     "power": 2
   },
@@ -58,7 +58,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 7,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Zoltan Chivay",
     "power": 5
   },
@@ -67,7 +67,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 8,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Emiel Regis Rohellec Terzieff",
     "power": 5
   },
@@ -76,7 +76,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 9,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Villentretenmerth",
     "power": 7
   },
@@ -85,7 +85,7 @@
     "card_type": 0,
     "faction": "Neutral",
     "id": 10,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Mysterious Elf",
     "power": 0
   },
@@ -241,7 +241,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 32,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Vernon Roche",
     "power": 10
   },
@@ -250,7 +250,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 33,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "John Natalis",
     "power": 10
   },
@@ -259,7 +259,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 34,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Esterad Thyssen",
     "power": 10
   },
@@ -268,7 +268,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 35,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Philippa Eilhart",
     "power": 10
   },
@@ -277,7 +277,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 36,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Thaler",
     "power": 1
   },
@@ -286,7 +286,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 37,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ves",
     "power": 5
   },
@@ -295,7 +295,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 38,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Siegfried of Denesle",
     "power": 5
   },
@@ -304,7 +304,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 39,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Yarpen Zigrin",
     "power": 2
   },
@@ -313,7 +313,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 40,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Sigismund Dijkstra",
     "power": 4
   },
@@ -322,7 +322,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 41,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Keira Metz",
     "power": 5
   },
@@ -331,7 +331,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 42,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Síle de Tansarville",
     "power": 5
   },
@@ -340,7 +340,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 43,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Sabrina Glevissig",
     "power": 4
   },
@@ -349,7 +349,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 44,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Sheldon Skaggs",
     "power": 4
   },
@@ -358,7 +358,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 45,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dethmold",
     "power": 6
   },
@@ -367,7 +367,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 46,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Prince Stennis",
     "power": 5
   },
@@ -376,7 +376,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 47,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Trebuchet",
     "power": 6
   },
@@ -385,7 +385,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 48,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Trebuchet",
     "power": 6
   },
@@ -394,7 +394,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 49,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Poor Fucking Infantry",
     "power": 1
   },
@@ -403,7 +403,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 50,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Poor Fucking Infantry",
     "power": 1
   },
@@ -412,7 +412,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 51,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Poor Fucking Infantry",
     "power": 1
   },
@@ -421,7 +421,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 52,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crinfrid Reavers Dragon Hunter",
     "power": 5
   },
@@ -430,7 +430,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 53,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crinfrid Reavers Dragon Hunter",
     "power": 5
   },
@@ -439,7 +439,7 @@
     "card_type": 1,
     "faction": "Northen Relams",
     "id": 54,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crinfrid Reavers Dragon Hunter",
     "power": 5
   },
@@ -448,7 +448,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 55,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Redanian Foot Soldier",
     "power": 1
   },
@@ -457,7 +457,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 56,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Redanian Foot Soldier",
     "power": 1
   },
@@ -466,7 +466,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 57,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Catapult",
     "power": 8
   },
@@ -475,7 +475,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 58,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Catapult",
     "power": 8
   },
@@ -484,7 +484,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 59,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ballista",
     "power": 6
   },
@@ -493,7 +493,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 60,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ballista",
     "power": 6
   },
@@ -502,7 +502,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 61,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Kaedweni Siege Expert",
     "power": 1
   },
@@ -511,7 +511,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 62,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Kaedweni Siege Expert",
     "power": 1
   },
@@ -520,7 +520,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 63,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Kaedweni Siege Expert",
     "power": 1
   },
@@ -529,7 +529,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 64,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Blue Stripes Commando",
     "power": 4
   },
@@ -538,7 +538,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 65,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Blue Stripes Commando",
     "power": 4
   },
@@ -547,7 +547,7 @@
     "card_type": 0,
     "faction": "Northen Relams",
     "id": 66,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Blue Stripes Commando",
     "power": 4
   },
@@ -556,7 +556,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 67,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Siege Tower",
     "power": 6
   },
@@ -565,7 +565,7 @@
     "card_type": 2,
     "faction": "Northen Relams",
     "id": 68,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dun Banner Medic",
     "power": 5
   },
@@ -574,7 +574,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 69,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Letho of Gulet",
     "power": 10
   },
@@ -583,7 +583,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 70,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Menno Coehoorn",
     "power": 10
   },
@@ -592,7 +592,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 71,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Morvran Voorhis",
     "power": 10
   },
@@ -601,7 +601,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 72,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Tibor Eggebracht",
     "power": 10
   },
@@ -610,7 +610,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 73,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Albrich",
     "power": 2
   },
@@ -619,7 +619,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 74,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Assire var Anahid",
     "power": 6
   },
@@ -628,7 +628,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 75,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Cynthia",
     "power": 4
   },
@@ -637,7 +637,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 76,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Fringilla Vigo",
     "power": 6
   },
@@ -646,7 +646,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 77,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Morteisen",
     "power": 3
   },
@@ -655,7 +655,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 78,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Rainfarn",
     "power": 4
   },
@@ -664,7 +664,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 79,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Renuald aep Matsen",
     "power": 5
   },
@@ -673,7 +673,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 80,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Rotten Mangonel",
     "power": 3
   },
@@ -682,7 +682,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 81,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Shilard Fitz-Oesterlen",
     "power": 7
   },
@@ -691,7 +691,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 82,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Stefan Skellen",
     "power": 9
   },
@@ -700,7 +700,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 83,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Sweers",
     "power": 2
   },
@@ -709,7 +709,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 84,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vanhemar",
     "power": 4
   },
@@ -718,7 +718,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 85,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vattier de Rideaux",
     "power": 4
   },
@@ -727,7 +727,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 86,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vreemde",
     "power": 2
   },
@@ -736,7 +736,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 87,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Cahir Mawr Dyffryn aep Ceallach",
     "power": 6
   },
@@ -745,7 +745,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 88,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Puttkammer",
     "power": 3
   },
@@ -754,7 +754,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 89,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Etolian Auxiliary Archers",
     "power": 1
   },
@@ -763,7 +763,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 90,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Etolian Auxiliary Archers",
     "power": 1
   },
@@ -772,7 +772,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 91,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Black Infantry Archer",
     "power": 10
   },
@@ -781,7 +781,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 92,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Siege Technician",
     "power": 0
   },
@@ -790,7 +790,7 @@
     "card_type": 1,
     "faction": "Nilfgaardian Empire",
     "id": 93,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Black Infantry Archer",
     "power": 10
   },
@@ -799,7 +799,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 94,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Heavy Zerrikanian Fire Scorpion",
     "power": 10
   },
@@ -808,7 +808,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 95,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Heavy Zerrikanian Fire Scorpion",
     "power": 10
   },
@@ -817,7 +817,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 96,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Impera Brigade Guard",
     "power": 3
   },
@@ -826,7 +826,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 97,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Impera Brigade Guard",
     "power": 3
   },
@@ -835,7 +835,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 98,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Impera Brigade Guard",
     "power": 3
   },
@@ -844,7 +844,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 99,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Impera Brigade Guard",
     "power": 3
   },
@@ -853,7 +853,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 100,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nausicaa Cavalry Rider",
     "power": 2
   },
@@ -862,7 +862,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 101,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nausicaa Cavalry Rider",
     "power": 2
   },
@@ -871,7 +871,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 102,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nausicaa Cavalry Rider",
     "power": 2
   },
@@ -880,7 +880,7 @@
     "card_type": 2,
     "faction": "Nilfgaardian Empire",
     "id": 103,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Siege Engineer",
     "power": 6
   },
@@ -889,7 +889,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 104,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Young Emissary",
     "power": 5
   },
@@ -898,7 +898,7 @@
     "card_type": 0,
     "faction": "Nilfgaardian Empire",
     "id": 105,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Young Emissary",
     "power": 5
   },
@@ -907,7 +907,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 106,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Eithné",
     "power": 10
   },
@@ -916,7 +916,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 107,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Saesenthessis",
     "power": 10
   },
@@ -925,7 +925,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 108,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Isengrim Faoiltiarna",
     "power": 10
   },
@@ -934,7 +934,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 109,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Iorveth",
     "power": 10
   },
@@ -943,7 +943,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 110,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dennis Cranmer",
     "power": 6
   },
@@ -952,7 +952,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 111,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Milva",
     "power": 10
   },
@@ -961,7 +961,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 112,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ida Emean aep Sivney",
     "power": 6
   },
@@ -970,7 +970,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 113,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Filavandrel aen Fidhail",
     "power": 6
   },
@@ -979,7 +979,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 114,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Yaevinn",
     "power": 6
   },
@@ -988,7 +988,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 115,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Toruviel",
     "power": 2
   },
@@ -997,7 +997,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 116,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Riordain",
     "power": 1
   },
@@ -1006,7 +1006,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 117,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ciaran aep Easnillien",
     "power": 3
   },
@@ -1015,7 +1015,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 118,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Barclay Els",
     "power": 6
   },
@@ -1024,7 +1024,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 119,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Healer",
     "power": 0
   },
@@ -1033,7 +1033,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 120,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Healer",
     "power": 0
   },
@@ -1042,7 +1042,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 121,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Healer",
     "power": 0
   },
@@ -1051,7 +1051,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 122,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vrihedd Brigade Veteran",
     "power": 5
   },
@@ -1060,7 +1060,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 123,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vrihedd Brigade Veteran",
     "power": 5
   },
@@ -1069,7 +1069,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 124,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dol Blathanna Archer",
     "power": 6
   },
@@ -1078,7 +1078,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 125,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dol Blathanna Scout",
     "power": 6
   },
@@ -1087,7 +1087,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 126,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dol Blathanna Scout",
     "power": 6
   },
@@ -1096,7 +1096,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 127,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dwarven Skirmisher",
     "power": 3
   },
@@ -1105,7 +1105,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 128,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dwarven Skirmisher",
     "power": 3
   },
@@ -1114,7 +1114,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 129,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dwarven Skirmisher",
     "power": 3
   },
@@ -1123,7 +1123,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 130,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Mahakaman Defender",
     "power": 5
   },
@@ -1132,7 +1132,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 131,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Mahakaman Defender",
     "power": 5
   },
@@ -1141,7 +1141,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 132,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Mahakaman Defender",
     "power": 5
   },
@@ -1150,7 +1150,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 133,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Mahakaman Defender",
     "power": 5
   },
@@ -1159,7 +1159,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 134,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Mahakaman Defender",
     "power": 5
   },
@@ -1168,7 +1168,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 135,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Elven Skirmisher",
     "power": 2
   },
@@ -1177,7 +1177,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 136,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Elven Skirmisher",
     "power": 2
   },
@@ -1186,7 +1186,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 137,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Elven Skirmisher",
     "power": 2
   },
@@ -1195,7 +1195,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 138,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vrihedd Brigade Recruit",
     "power": 4
   },
@@ -1204,7 +1204,7 @@
     "card_type": 1,
     "faction": "Scoia'tael",
     "id": 139,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Dol Blathanna Archer",
     "power": 4
   },
@@ -1213,7 +1213,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 140,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Smuggler",
     "power": 5
   },
@@ -1222,7 +1222,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 141,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Smuggler",
     "power": 5
   },
@@ -1231,7 +1231,7 @@
     "card_type": 0,
     "faction": "Scoia'tael",
     "id": 142,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Havekar Smuggler",
     "power": 5
   },
@@ -1240,7 +1240,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 143,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Draug",
     "power": 10
   },
@@ -1249,7 +1249,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 144,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Kayran",
     "power": 18
   },
@@ -1258,7 +1258,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 145,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Imlerith",
     "power": 10
   },
@@ -1267,7 +1267,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 146,
-    "power_type": "constant",
+    "is_hero": true,
     "name": "Leshen",
     "power": 10
   },
@@ -1276,7 +1276,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 147,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Forktail",
     "power": 5
   },
@@ -1285,7 +1285,7 @@
     "card_type": 2,
     "faction": "Monsters",
     "id": 148,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Earth Elemental",
     "power": 6
   },
@@ -1294,7 +1294,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 149,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Fiend",
     "power": 6
   },
@@ -1303,7 +1303,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 150,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Plague Maiden",
     "power": 5
   },
@@ -1312,7 +1312,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 151,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Griffin",
     "power": 5
   },
@@ -1321,7 +1321,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 152,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Werewolf",
     "power": 5
   },
@@ -1330,7 +1330,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 153,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Botchling",
     "power": 4
   },
@@ -1339,7 +1339,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 154,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Frightener",
     "power": 5
   },
@@ -1348,7 +1348,7 @@
     "card_type": 2,
     "faction": "Monsters",
     "id": 155,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ice Giant",
     "power": 5
   },
@@ -1357,7 +1357,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 156,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Endrega",
     "power": 2
   },
@@ -1366,7 +1366,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 157,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Harpy",
     "power": 2
   },
@@ -1375,7 +1375,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 158,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Cockatrice",
     "power": 2
   },
@@ -1384,7 +1384,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 159,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Gargoyle",
     "power": 2
   },
@@ -1393,7 +1393,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 160,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Celaeno Harpy",
     "power": 2
   },
@@ -1402,7 +1402,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 161,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Grave Hag",
     "power": 5
   },
@@ -1411,7 +1411,7 @@
     "card_type": 2,
     "faction": "Monsters",
     "id": 162,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Fire Elemental",
     "power": 6
   },
@@ -1420,7 +1420,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 163,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Foglet",
     "power": 2
   },
@@ -1429,7 +1429,7 @@
     "card_type": 1,
     "faction": "Monsters",
     "id": 164,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Wyvern",
     "power": 2
   },
@@ -1438,7 +1438,7 @@
     "card_type": 2,
     "faction": "Monsters",
     "id": 165,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Arachas Behemoth",
     "power": 6
   },
@@ -1447,7 +1447,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 166,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Arachas",
     "power": 4
   },
@@ -1456,7 +1456,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 167,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Arachas",
     "power": 4
   },
@@ -1465,7 +1465,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 168,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Arachas",
     "power": 4
   },
@@ -1474,7 +1474,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 169,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nekker",
     "power": 2
   },
@@ -1483,7 +1483,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 170,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nekker",
     "power": 2
   },
@@ -1492,7 +1492,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 171,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Nekker",
     "power": 2
   },
@@ -1501,7 +1501,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 172,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vampire: Ekimmara",
     "power": 4
   },
@@ -1510,7 +1510,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 173,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vampire: Fleder",
     "power": 4
   },
@@ -1519,7 +1519,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 174,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vampire: Garkain",
     "power": 4
   },
@@ -1528,7 +1528,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 175,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vampire: Bruxa",
     "power": 4
   },
@@ -1537,7 +1537,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 176,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Vampire: Katakan",
     "power": 5
   },
@@ -1546,7 +1546,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 177,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ghoul",
     "power": 1
   },
@@ -1555,7 +1555,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 178,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ghoul",
     "power": 1
   },
@@ -1564,7 +1564,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 179,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Ghoul",
     "power": 1
   },
@@ -1573,7 +1573,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 180,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crone: Brewess",
     "power": 6
   },
@@ -1582,7 +1582,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 181,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crone: Weavess",
     "power": 6
   },
@@ -1591,7 +1591,7 @@
     "card_type": 0,
     "faction": "Monsters",
     "id": 182,
-    "power_type": "normal",
+    "is_hero": false,
     "name": "Crone: Whispess",
     "power": 6
   },
