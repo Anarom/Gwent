@@ -1,85 +1,80 @@
 import config
+from game import Game
 
 
-class Ability:
-    game = None
+class GameAbility(Game):
+    weather_codes = {'Biting Frost': 0, ' Impenetrable Fog': 1, ' Torrential Rain': 2}
 
-    def __init__(self, ability_attrs=None):
-        self.source_card = None
-        self.player = Ability.game.active_player
-        self.ability_triggers = {'Morale': self.morale, 'Medic': self.medic, 'Scorch': self.scorch, 'Agile': self.agile,
-                                 'muster': self.muster, 'Spy': self.spy, 'Bond': self.tight_bond, 'Decoy': self.decoy}
-        self.ability_attrs = ability_attrs
+    def __init__(self, ability_name, param=None):
+        self.src = None
+        self.method = getattr(self, ability_name)
+        self.param = param
 
     def apply(self, source_card):
-        self.source_card = source_card
-        self.ability_triggers[self.source_card.ability]()
+        self.src = source_card
+        self.method()
 
-    # ability implementations
-    # return True if source card placement is being controlled by ability method
+    # methods
+    # method returns True if src placement is being controlled by it
     def morale(self):
-        row = self.player.army.get_row(self.source_card.creature_type)
+        row = self.host.army.get_rows(row_type=self.src.unit_type)
         for card in row.get_cards():
-            if card is not self.source_card and not card.is_hero:
+            if not card.is_hero:
                 card.power_bonus += 1
 
     def medic(self):
-        self.player.army.place_card(self.source_card)
-        self.player.play_card(self.player.discard_pile.choose_card())
-        return True  # source card is not placed in player.play_card()
+        self.host.army.place_card(self.src)
+        self.host.play_card(self.host.discard_pile.choose_card())
+        return True
 
     def scorch(self):
-        if not self.ability_attrs:
-            player_power = self.player.army.get_max_power()
-            opponent_power = self.player.opponent.army.get_max_power()
-            if player_power >= opponent_power:
-                for card in self.player.army.get_cards_with_max_power():
-                    self.player.remove_card(card)
-                if player_power == opponent_power:
-                    for card in self.player.opponent.army.get_cards_with_max_power():
-                        self.player.opponent.remove_card(card)
-            else:
-                for card in self.player.opponent.army.get_cards_with_max_power():
-                    self.player.opponent.remove_card(card)
-        else:  # ability attr = row_type
-            row = self.player.opponent.army.get_row(self.ability_attrs)
+        if not self.param:  # special card
+            max_power = max(self.host.army.get_max_power(), self.opp.army.get_max_power())
+            for side in (self.host, self.opp):
+                for card in side.army.get_cards(power=max_power):
+                    if not card.is_hero:
+                        side.army.remove_card(card)
+            return True
+        else:  # unit card
+            row = self.opp.army.get_rows(row_type=self.param)
             if row.get_total_power() >= config.ABILITY_SCORCH_ROW_POWER:
-                for card in row.get_cards_with_max_power():
-                    self.player.opponent.remove_card(card)
+                for card in row.get_cards(power=row.get_max_power()):
+                    if not card.is_hero:
+                        self.opp.remove_card(card)
 
     def spy(self):
-        self.player.opponent.army.place_card(self.source_card)
-        for n in range(config.ABILITY_SPY_DRAW):
-            self.player.hand.add_card(self.player.deck.draw_card())
+        self.opp.army.place_card(self.src)
+        for _ in range(config.ABILITY_SPY_DRAW):
+            self.host.hand.add_card(self.host.deck.draw_card())
         return True
 
     def tight_bond(self):
-        row = self.player.army.get_row(self.source_card.creature_type)
-        cards = [card for card in row.get_cards() if card.name == self.source_card.name]
-        multiplier = len(cards) + 1
+        self.host.army.place_card(self.src)
+        row = self.host.army.get_rows(row_type=self.src.unit_type)
+        cards = [card for card in row.get_cards() if card.name == self.src.name]
         for card in cards:
-            card.power_multiplier = multiplier
+            card.power_multiplier = len(cards)
 
     def agile(self):
-        self.source_card.creature_type = self.player.choose_row()  # row numbering is equal to creature type numbering
+        self.src.unit_type = self.host.choose_row()  # row numbering is equal to unit type numbering
 
     def muster(self):
         additional_bounds = {
             165: [166, 167, 168]}  # Arachas Behemoth
-        source_name = self.source_card.name.split(':')[0]
-        cards = [card for card in self.player.deck.get_cards() if card.name.split(':')[0] == source_name]
-        if self.source_card.id in additional_bounds:
-            for card_id in additional_bounds[self.source_card.id]:
+        source_name = self.src.name.split(':')[0]
+        cards = [card for card in self.host.deck.get_cards() if card.name.split(':')[0] == source_name]
+        if self.src.id in additional_bounds:
+            for card_id in additional_bounds[self.src.id]:
                 card_drawn = True
                 card = None
                 while card_drawn:
-                    card = self.player.deck.draw_card(card_id=card_id)
+                    card = self.host.deck.draw_card(card_id=card_id)
                     if card:
                         cards.append(card)
                     else:
                         card_drawn = False
         for card in cards:
-            self.player.army.place_card(card)
+            self.host.army.place_card(card)  # probably can play it not just place
 
     def decoy(self):
         self.player.remove_card(self.player.choose_unit(), in_hand=True)
