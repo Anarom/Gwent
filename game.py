@@ -2,6 +2,8 @@ from board import Board
 
 
 class Game:
+    factions = ['Northen Relams', 'Nilfgaardian Empire', "Scoia'tael", 'Monsters', 'Neutral']
+
     def __init__(self, player_1, player_2):
         self.board = Board()
         self.players = [player_1, player_2]
@@ -10,6 +12,7 @@ class Game:
 
     def switch_host(self):
         self.host, self.opp = self.opp, self.host
+
 
 class GameHandler(Game):
     def __init__(self, player_1, player_2):
