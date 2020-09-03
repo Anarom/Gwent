@@ -66,7 +66,6 @@ class GameAbility(Game):
         if self.src.id in additional_bounds:
             for card_id in additional_bounds[self.src.id]:
                 card_drawn = True
-                card = None
                 while card_drawn:
                     card = self.host.deck.draw_card(card_id=card_id)
                     if card:
@@ -77,4 +76,26 @@ class GameAbility(Game):
             self.host.army.place_card(card)  # probably can play it not just place
 
     def decoy(self):
-        self.player.remove_card(self.player.choose_unit(), in_hand=True)
+        self.host.remove_card(self.host.choose_unit(), in_hand=True)
+        return True
+
+    def horn(self):
+        if self.src.is_unit:
+            row = self.host.army.get_rows(row_type=self.src.unit_type)
+        else:
+            row = self.host.choose_row()
+        row.horn_sources.append(self.src)
+
+    def bad_weather(self):
+        weather = GameAbility.weather_codes[self.param]
+        if weather not in self.board.weather:
+            self.board.weather.append(weather)
+        for side in (self.host, self.opp):
+            row = side.get_rows(row_type=self.param)
+            row.bad_weather = True
+
+    def clear_weather(self):
+        self.board.weather = []
+        for side in (self.host, self.opp):
+            for row in side.get_rows():
+                row.bad_weather = False
