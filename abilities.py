@@ -3,8 +3,6 @@ from game import Game
 
 
 class GameAbility(Game):
-    weather_codes = {'Biting Frost': 0, ' Impenetrable Fog': 1, ' Torrential Rain': 2}
-
     def __init__(self, ability_name, param=None):
         self.src = None
         self.method = getattr(self, ability_name)
@@ -14,7 +12,6 @@ class GameAbility(Game):
         self.src = source_card
         self.method()
 
-    # methods
     # method returns True if src placement is being controlled by it
     def morale(self):
         row = self.host.army.get_rows(row_type=self.src.unit_type)
@@ -48,7 +45,7 @@ class GameAbility(Game):
             self.host.hand.add_card(self.host.deck.draw_card())
         return True
 
-    def tight_bond(self):
+    def bond(self):
         self.host.army.place_card(self.src)
         row = self.host.army.get_rows(row_type=self.src.unit_type)
         cards = [card for card in row.get_cards() if card.name == self.src.name]
@@ -75,10 +72,6 @@ class GameAbility(Game):
         for card in cards:
             self.host.army.place_card(card)  # probably can play it not just place
 
-    def decoy(self):
-        self.host.remove_card(self.host.choose_unit(), in_hand=True)
-        return True
-
     def horn(self):
         if self.src.is_unit:
             row = self.host.army.get_rows(row_type=self.src.unit_type)
@@ -86,10 +79,13 @@ class GameAbility(Game):
             row = self.host.choose_row()
         row.horn_sources.append(self.src)
 
+    # special exclusive abilities
+    def decoy(self):
+        self.host.remove_card(self.host.choose_unit(), in_hand=True)
+
     def bad_weather(self):
-        weather = GameAbility.weather_codes[self.param]
-        if weather not in self.board.weather:
-            self.board.weather.append(weather)
+        if self.param not in self.board.weather:
+            self.board.weather.append(self.param)
         for side in (self.host, self.opp):
             row = side.get_rows(row_type=self.param)
             row.bad_weather = True
