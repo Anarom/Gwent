@@ -9,6 +9,7 @@ class Player:
         self.leader = leader
         self.discard_pile = CardSet()
         self.army = None
+        self.passive_abilities = []
 
     def play_card(self, card):
         callbacks = []

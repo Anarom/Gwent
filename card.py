@@ -12,9 +12,16 @@ class Card:
 
 
 class LeaderCard(Card):
+    passives = ['emperor', 'extra_card']
+
     def __init__(self, record):
         super().__init__(record)
+        self.passive = False
+        self.order = 0
         self.used = False
+        if record["ability"] in LeaderCard.passives:
+            self.passive = True
+            self.order = LeaderCard.passive.index(record["ability_name"])
 
 
 class UnitCard(Card):
