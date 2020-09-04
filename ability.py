@@ -96,3 +96,32 @@ class GameAbility(Game):
         for side in (self.host, self.opp):
             for row in side.get_rows():
                 row.bad_weather = False
+
+    # leader exclusive abilities
+    def relentless(self):
+        card = self.opp.discard_pile.draw_card()
+        self.host.hand.add_card(card)
+
+    def white_flame(self):
+        self.opp.leader.used = True
+
+    def emperor(self):
+        cards = self.opp.hand.get_cards(amount=config.ABILITY_EMPEROR_LOOKUP_AMOUNT)
+        self.host.view_cards(cards)
+
+    def extra_card(self):
+        self.host.hand.add_card(self.host.deck.draw_card())
+
+    def destroyer_of_worlds(self):
+        selected = self.host.select_card(self.host.discard_pile)
+        self.host.hand.add_card(self.host.discard_pile.draw_card(card=selected))
+
+    def bringer_of_death(self):
+        for discard in range(config.ABILITY_BRINGER_OF_DEATH_DISCARD_AMOUNT):
+            self.host.discard_pile.add_card(self.host.hand.draw_card())
+        for draw in range(config.ABILITY_BRINGER_OF_DEATH_DRAW_AMOUNT):
+            selected = self.host.select_card(self.host.deck)
+            self.host.hand.add_card(self.host.deck.draw_card(card=selected))
+
+    def red_rider(self):
+        pass
