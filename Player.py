@@ -15,8 +15,12 @@ class Player:
         if card.abilities:
             for ability in card.abilities:
                 callbacks.append(ability.apply(card))
-            if True not in callbacks:
+            if True not in callbacks and card.is_unit:
                 self.army.place_card(card)
+
+    def play_leader(self):
+        self.leader.used = True
+        self.leader.ability.apply()
 
     def draw_hand(self):
         # initial draw
