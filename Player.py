@@ -13,9 +13,12 @@ class Player:
 
     def play_card(self, card):
         callbacks = []
-        if card.abilities:
-            for ability in card.abilities:
-                callbacks.append(ability.apply(card))
+        if card.ability:
+            if len(card.ability) > 1:
+                for ability in card.ability:
+                    callbacks.append(ability.apply(card))
+            else:
+                callbacks.append(card.ability.apply(card))
             if True not in callbacks and card.is_unit:
                 self.army.place_card(card)
 
