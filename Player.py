@@ -22,6 +22,11 @@ class Player:
             if True not in callbacks and card.is_unit:
                 self.army.place_card(card)
 
+    def remove_card(self, card, in_hand=False):
+        self.army.remove_card(card)
+        pile = self.hand if in_hand else self.discard_pile
+        pile.add_card(card)
+
     def play_leader(self):
         self.leader.used = True
         self.leader.ability.apply()
@@ -39,8 +44,11 @@ class Player:
                 old_card = self.hand.swap_card(response, self.deck.draw_card())
                 self.deck.add_card(old_card)
 
-    def choose_row(self):
+    def view_cards(self, cards):
         pass
 
-    def choose_unit(self):
+    def select_row(self):
+        pass
+
+    def select_unit(self):
         pass

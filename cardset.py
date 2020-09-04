@@ -15,7 +15,7 @@ class CardSet:
     def add_card(self, card):
         self.cards.append(card)
 
-    def draw_card(self, specific_card = None, card_id=None):
+    def draw_card(self, specific_card=None, card_id=None):
         if specific_card:
             card = specific_card
         elif card_id:
@@ -27,8 +27,11 @@ class CardSet:
         self.cards.remove(card)
         return card
 
-    def get_cards(self):
-        return self.cards
+    def get_cards(self, amount=None):
+        if amount:
+            return random.choices(self.cards, k=amount)
+        else:
+            return self.cards
 
     def swap_card(self, index, new_card):
         old_card = self.cards[index]

@@ -3,6 +3,7 @@ from game import Game
 
 
 class GameAbility(Game):
+
     def __init__(self, ability_name, param=None):
         self.src = None
         self.method = getattr(self, ability_name)
@@ -21,7 +22,7 @@ class GameAbility(Game):
 
     def medic(self):
         self.host.army.place_card(self.src)
-        self.host.play_card(self.host.discard_pile.choose_card())
+        self.host.play_card(self.host.discard_pile.select_card())
         return True
 
     def scorch(self):
@@ -30,7 +31,7 @@ class GameAbility(Game):
             for side in (self.host, self.opp):
                 for card in side.army.get_cards(power=max_power):
                     if not card.is_hero:
-                        side.army.remove_card(card)
+                        side.remove_card(card)
             return True
         else:  # unit card
             row = self.opp.army.get_rows(row_type=self.param)
@@ -53,7 +54,7 @@ class GameAbility(Game):
             card.power_multiplier = len(cards)
 
     def agile(self):
-        self.src.unit_type = self.host.choose_row()  # row numbering is equal to unit type numbering
+        self.src.unit_type = self.host.select_row()  # row numbering is equal to unit type numbering
 
     def muster(self):
         additional_bounds = {
@@ -76,12 +77,12 @@ class GameAbility(Game):
         if self.src.is_unit:
             row = self.host.army.get_rows(row_type=self.src.unit_type)
         else:
-            row = self.host.choose_row()
+            row = self.host.select_row()
         row.horn_sources.append(self.src)
 
     # special exclusive abilities
     def decoy(self):
-        self.host.remove_card(self.host.choose_unit(), in_hand=True)
+        self.host.remove_card(self.host.select_unit(), in_hand=True)
 
     def bad_weather(self):
         if self.param not in self.board.weather:
